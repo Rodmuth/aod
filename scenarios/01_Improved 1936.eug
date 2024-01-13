@@ -1,0 +1,2302 @@
+name       = "Improved 1936"
+panel      = "scenarios/data/scenario_improved1936.bmp"
+header =
+{ name       = "Improved 1936"
+  startdate  = { year = 1936 }
+  selectable = { AFG ALB ARG AST AUS BEL BHU BOL BRA BUL CAN CGX CHC CHI CHL COL COS CSX CUB CXB CYN CZE DEN DOM ECU ENG EST ETH FIN FRA GER GRE GUA HAI HOL HON HUN IRE IRQ ITA 
+		 JAP LAT LIB LIT LUX MAN MEX MON NEP NIC NOR NZL OMN PAN PAR PER PHI POL POR PRU ROM SOV SWE SAF SAL SAU SCH SIA SIK SPR TAN TIB TUR URU USA VEN YEM YUG   
+		 BRU SAR IND JOR ICL SUD EGY MLY U91 PAL LEB SYR CMB VIE LAO RHO U15 U27 U09 U28
+               }
+SOV = { }
+SPR = { }
+BRA = { }
+MEX = { }
+AST = { }
+CAN = { }
+CHI = { }
+FRA = { }
+USA = { }
+ENG = { }
+IND = { }
+POL = { }
+ARG = { }
+SWE = { }
+BUL = { }
+ROM = { }
+HUN = { }
+ITA = { }
+JAP = { }
+GER = { }
+}
+globaldata =
+{ startdate = { year = 1936 month = january day = 0 }
+  axis =
+  { id          = { type = 15000 id = 2 }
+    participant = { GER }
+  }
+  allies =
+  { id          = { type = 15000 id = 1 }
+    participant = { ENG IRQ FRA AST NZL CAN SAF NEP BHU OMN IND BRU SAR  SUD JOR BEL MLY U91 PAL LEB SYR CMB VIE LAO RHO U15 U27 U09 }
+  }
+  comintern =
+  { id          = { type = 15000 id = 3 }
+    participant = { SOV MON TAN }
+  }
+  alliance =
+  { id          = { type = 15000 id = 10 }
+    participant = { CHI CXB }
+  }
+  alliance =
+  { id          = { type = 15000 id = 11 }
+    participant = { EST LAT }
+  }
+  alliance =
+  { id          = { type = 15000 id = 12 }
+    participant = { JAP MAN }
+  }
+  war =
+  { id        = { type = 9430 id = 1 }
+    date      = { year = 1935 month = october day = 3 }
+    enddate   = { year = 1936 month = january day = 0 }
+    attackers =
+    { id          = { type = 9430 id = 2 }
+      participant = { ITA }
+    }
+    defenders =
+    { id          = { type = 9430 id = 3 }
+      participant = { ETH }
+    }
+  }
+  war =
+  { id        = { type = 9430 id = 4 }
+    date      = { year = 1936 month = january day = 0 }
+    enddate   = { year = 1936 month = january day = 0 }
+    attackers =
+    { id          = { type = 9430 id = 5 }
+      participant = { CHC }
+    }
+    defenders =
+    { id          = { type = 9430 id = 6 }
+      participant = { CHI CXB }
+    }
+  }
+  # ########################### 1936 ############################
+  treaty =
+  { id         = { type = 16384 id = 1 }
+    type       = non_aggression
+    country    = "ENG"
+    country    = "POR"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 2 }
+    type       = non_aggression
+    country    = "ENG"
+    country    = "SAU"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 3 }
+    type       = non_aggression
+    country    = "ENG"
+    country    = "YEM"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 4 }
+    type       = non_aggression
+    country    = "FRA"
+    country    = "SOV"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1938 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 5 }
+    type       = non_aggression
+    country    = "FRA"
+    country    = "ITA"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1939 month = may day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 6 }
+    type       = non_aggression
+    country    = "FRA"
+    country    = "ROM"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1938 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 7 }
+    type       = non_aggression
+    country    = "EST"
+    country    = "LAT"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 8 }
+    type       = non_aggression
+    country    = "EST"
+    country    = "LIT"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 9 }
+    type       = non_aggression
+    country    = "LAT"
+    country    = "LIT"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 10 }
+    type       = non_aggression
+    country    = "SOV"
+    country    = "CZE"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1939 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 11 }
+    type       = non_aggression
+    country    = "SOV"
+    country    = "TUR"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 12 }
+    type       = non_aggression
+    country    = "SOV"
+    country    = "EST"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1939 month = march day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 13 }
+    type       = non_aggression
+    country    = "SOV"
+    country    = "LAT"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1939 month = march day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 14 }
+    type       = non_aggression
+    country    = "SOV"
+    country    = "LIT"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1939 month = march day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 15 }
+    type       = non_aggression
+    country    = "SOV"
+    country    = "POL"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1939 month = march day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 16 }
+    type       = non_aggression
+    country    = "SOV"
+    country    = "ROM"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1938 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 17 }
+    type       = non_aggression
+    country    = "SOV"
+    country    = "AFG"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1939 month = june day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 18 }
+    type       = non_aggression
+    country    = "SOV"
+    country    = "PER"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1939 month = june day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 19 }
+    type       = non_aggression
+    country    = "SOV"
+    country    = "FIN"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1938 month = july day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 20 }
+    type       = non_aggression
+    country    = "ITA"
+    country    = "YEM"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 21 }
+    type       = non_aggression
+    country    = "ITA"
+    country    = "TUR"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1938 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 22 }
+    type       = non_aggression
+    country    = "ITA"
+    country    = "GRE"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1939 month = february day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 23 }
+    type       = non_aggression
+    country    = "ITA"
+    country    = "ROM"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1939 month = july day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 24 }
+    type       = non_aggression
+    country    = "ITA"
+    country    = "SPR"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1936 month = march day = 30 }
+  }
+  # ############### AMERICAN CONFERENCE TREATIES ################
+  treaty =
+  { id         = { type = 16384 id = 25 }
+    type       = non_aggression
+    country    = "USA"
+    country    = "ARG"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 26 }
+    type       = non_aggression
+    country    = "USA"
+    country    = "BOL"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 27 }
+    type       = non_aggression
+    country    = "USA"
+    country    = "BRA"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 28 }
+    type       = non_aggression
+    country    = "USA"
+    country    = "CAN"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 29 }
+    type       = non_aggression
+    country    = "USA"
+    country    = "CHL"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 30 }
+    type       = non_aggression
+    country    = "USA"
+    country    = "COS"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 31 }
+    type       = non_aggression
+    country    = "USA"
+    country    = "CUB"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 32 }
+    type       = non_aggression
+    country    = "USA"
+    country    = "DOM"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 33 }
+    type       = non_aggression
+    country    = "USA"
+    country    = "ECU"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 34 }
+    type       = non_aggression
+    country    = "USA"
+    country    = "GUA"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 35 }
+    type       = non_aggression
+    country    = "USA"
+    country    = "HAI"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 36 }
+    type       = non_aggression
+    country    = "USA"
+    country    = "HON"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 37 }
+    type       = non_aggression
+    country    = "USA"
+    country    = "MEX"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 38 }
+    type       = non_aggression
+    country    = "USA"
+    country    = "NIC"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 39 }
+    type       = non_aggression
+    country    = "USA"
+    country    = "PAN"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 40 }
+    type       = non_aggression
+    country    = "USA"
+    country    = "PAR"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 41 }
+    type       = non_aggression
+    country    = "USA"
+    country    = "PRU"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 42 }
+    type       = non_aggression
+    country    = "USA"
+    country    = "SAL"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 43 }
+    type       = non_aggression
+    country    = "USA"
+    country    = "URU"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 44 }
+    type       = non_aggression
+    country    = "USA"
+    country    = "VEN"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  # ############################################
+  treaty =
+  { id         = { type = 16384 id = 45 }
+    type       = non_aggression
+    country    = "TUR"
+    country    = "GRE"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 46 }
+    type       = non_aggression
+    country    = "TUR"
+    country    = "YUG"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 47 }
+    type       = non_aggression
+    country    = "TUR"
+    country    = "ROM"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+#  treaty =
+#  { id         = { type = 16384 id = 48 }
+#    type       = non_aggression
+#    country    = "TUR"
+#    country    = "BUL"
+#    startdate  = { year = 1935 month = december day = 30 }
+#    expirydate = { year = 1938 month = may day = 30 }
+#  }
+  treaty =
+  { id         = { type = 16384 id = 49 }
+    type       = non_aggression
+    country    = "TUR"
+    country    = "SAU"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 50 }
+    type       = non_aggression
+    country    = "TUR"
+    country    = "AFG"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 51 }
+    type       = non_aggression
+    country    = "TUR"
+    country    = "GER"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1939 month = august day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 52 }
+    type       = non_aggression
+    country    = "GRE"
+    country    = "YUG"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 53 }
+    type       = non_aggression
+    country    = "GRE"
+    country    = "ROM"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 54 }
+    type       = non_aggression
+    country    = "YUG"
+    country    = "ROM"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 55 }
+    type       = non_aggression
+    country    = "GRE"
+    country    = "POL"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 56 }
+    type       = non_aggression
+    country    = "YUG"
+    country    = "CZE"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 57 }
+    type       = non_aggression
+    country    = "ROM"
+    country    = "CZE"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 58 }
+    type       = non_aggression
+    country    = "GER"
+    country    = "SOV"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1940 month = april day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 59 }
+    type       = non_aggression
+    country    = "GER"
+    country    = "POL"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1939 month = july day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 60 }
+    type       = non_aggression
+    country    = "GER"
+    country    = "AUS"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+#16384 id = 61
+  treaty =
+  { id         = { type = 16384 id = 62 }
+    type       = non_aggression
+    country    = "ROM"
+    country    = "POL"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1939 month = august day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 63 }
+    type       = non_aggression
+    country    = "IRQ"
+    country    = "SAU"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 64 }
+    type       = non_aggression
+    country    = "DEN"
+    country    = "SWE"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 65 }
+    type       = non_aggression
+    country    = "DEN"
+    country    = "NOR"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 66 }
+    type       = non_aggression
+    country    = "DEN"
+    country    = "FIN"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 67 }
+    type       = non_aggression
+    country    = "SWE"
+    country    = "NOR"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 68 }
+    type       = non_aggression
+    country    = "SWE"
+    country    = "FIN"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 168 }
+    type       = non_aggression
+    country    = "NOR"
+    country    = "FIN"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 69 }
+    type       = non_aggression
+    country    = "PER"
+    country    = "IRQ"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 70 }
+    type       = non_aggression
+    country    = "PER"
+    country    = "SAU"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 71 }
+    type       = non_aggression
+    country    = "PER"
+    country    = "AFG"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 72 }
+    type       = non_aggression
+    country    = "PER"
+    country    = "TUR"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+  treaty =
+  { id         = { type = 16384 id = 73 }
+    type       = non_aggression
+    country    = "ENG"
+    country    = "EGY"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 1948 month = december day = 30 }
+  }
+######################
+# AXIS TRADES
+######################
+	treaty = { 
+		id = { type = 16384 id = 374 } 
+		type = trade 
+		country = "GER" 
+		country = "HUN" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		metal = 40.0
+		energy = -24.0
+		rare_materials = -10.0
+		money = -1.2
+		cancel = no
+		}
+	treaty = { 
+		id = { type = 16384 id = 331 } 
+		type = trade 
+		country = "GER" 
+		country = "ROM" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		energy = -19.0
+		metal = -15.0 
+		money = -5.9
+		rare_materials = -5
+		oil = 40.0
+		cancel = no
+		} 
+	treaty = { 
+		id = { type = 16384 id = 334 } 
+		type = trade 
+		country = "GER" 
+		country = "BUL" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		energy = -9.0
+		metal = -7.5 
+		rare_materials = -3.0
+		money = 2.4
+		cancel = no
+		} 
+  treaty =
+  { id         = { type = 16384 id = 308 }
+    type       = trade
+    country    = "GER"
+    country    = "ITA"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 2035 month = december day = 30 }
+    energy     = -176.0
+    metal = -10.0
+    money      = 13.1
+    cancel    = no
+  }
+  treaty =
+  { id         = { type = 16384 id = 309 }
+    type       = trade
+    country    = "ITA"
+    country    = "ROM"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 2035 month = december day = 30 }
+    oil     = 14.0
+    money      = -2.8
+    cancel    = no
+  }
+######################
+# ALLIED TRADES
+######################
+  treaty =
+  { id             = { type = 16384 id = 313 }
+		isoversea = yes 
+    type           = trade
+    country        = "ENG"
+    country        = "NZL"
+    startdate      = { year = 1935 month = december day = 30 }
+    expirydate     = { year = 2035 month = december day = 30 }
+    metal = -7.0
+    rare_materials = -3.0
+    oil            = -1.0
+    energy = -8.0
+    money          = 2.6
+    cancel        = no
+  }
+  treaty =
+  { id             = { type = 16384 id = 314 }
+    type           = trade
+    country        = "FRA"
+    country        = "VIE"
+    startdate      = { year = 1935 month = december day = 30 }
+    expirydate     = { year = 2035 month = december day = 30 }
+    rare_materials = 5.0
+    cancel        = no
+  }
+	treaty = { 
+		id = { type = 16384 id = 365 } 
+		isoversea = yes 
+		type = trade 
+		country = "ENG" 
+		country = "AST" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		money = 3.4
+		energy = -20.0
+    		rare_materials = -4.0
+		oil = -5.0
+		cancel = no
+		}
+	treaty = { 
+		id = { type = 16384 id = 315 } 
+		isoversea = yes 
+		type = trade 
+		country = "ENG" 
+		country = "U27" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		metal = 14
+		money = -2.1
+		cancel = no
+		}
+######################
+# COMINTERN TRADES
+######################
+
+######################
+# INTER-AMERICAN TRADES
+######################
+
+	treaty = { 
+		id = { type = 16384 id = 700 } 
+		type = trade 
+		country = "USA" 
+		country = "CAN" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		rare_materials = 38.0
+		money = -10.2
+		cancel = no
+		}
+	treaty = { 
+		id = { type = 16384 id = 701 } 
+		type = trade 
+		country = "ARG" 
+		country = "BOL" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		metal = 20.0
+		rare_materials = 12.0
+		money = -5.9
+		cancel = no
+		}
+	treaty = { 
+		id = { type = 16384 id = 702 } 
+		type = trade 
+		country = "CHL" 
+		country = "BRA" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		metal = -14.0
+		rare_materials = -1.0
+		money = 2.2
+		cancel = no
+		}
+
+	treaty = { 
+		id = { type = 16384 id = 703 } 
+		type = trade 
+		country = "CHL" 
+		country = "COL" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		metal = -7.0
+		money = 1.1
+		cancel = no
+		}
+
+	treaty = { 
+		id = { type = 16384 id = 708 } 
+		type = trade 
+		country = "CHL" 
+		country = "VEN" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		metal = -8.0
+		oil = 1.0
+		money = 0.9
+		cancel = no
+		}
+
+	treaty = { 
+		id = { type = 16384 id = 709 } 
+		type = trade 
+		country = "CHL" 
+		country = "URU" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		metal = -2.0
+		money = 0.3
+		cancel = no
+		}
+
+	treaty = { 
+		id = { type = 16384 id = 710 } 
+		isoversea = yes 
+		type = trade 
+		country = "CUB" 
+		country = "HAI" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		metal = -1.5
+		rare_materials = -0.8
+		money = 0.4
+		cancel = no
+		}
+
+	treaty = { 
+		id = { type = 16384 id = 711 } 
+		isoversea = yes 
+		type = trade 
+		country = "CUB" 
+		country = "DOM" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		metal = -1.5
+		rare_materials = -0.8
+		money = 0.4
+		cancel = no
+		}
+
+
+	treaty = { 
+		id = { type = 16384 id = 718 } 
+		type = trade 
+		country = "MEX" 
+		country = "GUA" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		rare_materials = -0.4
+		money = 0.1
+		cancel = no
+		}
+
+	treaty = { 
+		id = { type = 16384 id = 719 } 
+		type = trade 
+		country = "MEX" 
+		country = "COL" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		rare_materials = -4.0
+		money = 1.1
+		cancel = no
+		}
+
+	treaty = { 
+		id = { type = 16384 id = 720 } 
+		type = trade 
+		country = "PRU" 
+		country = "PAR" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		rare_materials = -0.4
+		money = 0.1
+		cancel = no
+		}
+
+	treaty = { 
+		id = { type = 16384 id = 721 } 
+		type = trade 
+		country = "PRU" 
+		country = "URU" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		rare_materials = -0.4
+		money = 0.1
+		cancel = no
+		}
+
+	treaty = { 
+		id = { type = 16384 id = 722 } 
+		type = trade 
+		country = "PRU" 
+		country = "VEN" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		rare_materials = -3.5
+		money = 1.0
+		cancel = no
+		}
+
+	treaty = { 
+		id = { type = 16384 id = 723 } 
+		type = trade 
+		country = "MEX" 
+		country = "ECU" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		rare_materials = -0.8
+		money = 0.2
+		cancel = no
+		}
+
+	treaty = { 
+		id = { type = 16384 id = 724 } 
+		type = trade 
+		country = "PRU" 
+		country = "CHL" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		rare_materials = -1.5
+		money = 0.4
+		cancel = no
+		}
+
+	treaty = { 
+		id = { type = 16384 id = 725 } 
+		isoversea = yes 
+		type = trade 
+		country = "CUB" 
+		country = "VEN" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		rare_materials = -1.5
+		money = 0.4
+		cancel = no
+		}
+
+	treaty = { 
+		id = { type = 16384 id = 726 } 
+		type = trade 
+		country = "ARG" 
+		country = "PAR" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		energy = 2.0
+		money = -0.1
+		cancel = no
+		}
+
+	treaty = { 
+		id = { type = 16384 id = 727 } 
+		type = trade 
+		country = "ARG" 
+		country = "NIC" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		energy = 2.0
+		money = -0.1
+		cancel = no
+		}
+
+	treaty = { 
+		id = { type = 16384 id = 728 } 
+		type = trade 
+		country = "ARG" 
+		country = "PAN" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		energy = 2.0
+		money = -0.1
+		cancel = no
+		}
+
+	treaty = { 
+		id = { type = 16384 id = 729 } 
+		type = trade 
+		country = "ARG" 
+		country = "SAL" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		energy = 3.0
+		money = -0.2
+		cancel = no
+		}
+
+	treaty = { 
+		id = { type = 16384 id = 730 } 
+		type = trade 
+		country = "ARG" 
+		country = "HON" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		energy = 3.0
+		money = -0.2
+		cancel = no
+		}
+
+	treaty = { 
+		id = { type = 16384 id = 731 } 
+		type = trade 
+		country = "ARG" 
+		country = "COS" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		energy = 3.0
+		money = -0.2
+		cancel = no
+		}
+
+	treaty = { 
+		id = { type = 16384 id = 732 } 
+		type = trade 
+		country = "BRA" 
+		country = "CAN" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		energy = 10.0
+		rare_materials = 1.0
+		money = -0.8
+		cancel = no
+		}
+
+	treaty = { 
+		id = { type = 16384 id = 733 } 
+		type = trade 
+		country = "ARG" 
+		country = "CHL" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		metal = 4.0
+		rare_materials = 1.0
+		money = -0.8
+		cancel = no
+		}
+
+	treaty = { 
+		id = { type = 16384 id = 734 } 
+		isoversea = yes 
+		type = trade 
+		country = "CHL" 
+		country = "DOM" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		energy = 1.0
+		money = -0.1
+		cancel = no
+		}
+
+	treaty = { 
+		id = { type = 16384 id = 735 } 
+		type = trade 
+		country = "CHL" 
+		country = "BOL" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		energy = 3.0
+		money = -0.2
+		cancel = no
+		}
+
+	treaty = { 
+		id = { type = 16384 id = 736 } 
+		type = trade 
+		country = "ARG" 
+		country = "CAN" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		energy = 16.0
+		money = -1.1
+		cancel = no
+		}
+
+	treaty = { 
+		id = { type = 16384 id = 737 } 
+		type = trade 
+		country = "CHL" 
+		country = "COL" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		energy = 1.0
+		money = -0.1
+		cancel = no
+		}
+
+######################
+# NEUTRAL TRADES
+######################
+
+	treaty = { 
+		id = { type = 16384 id = 361 } 
+		isoversea = yes 
+		type = trade 
+		country = "JAP" 
+		country = "CHL" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		money = -1.4
+		metal = 10.0
+		cancel = no
+		}
+
+  treaty =
+  { id             = { type = 16384 id = 305 }
+    type           = trade
+    country        = "HOL"
+    country        = "GER"
+    startdate      = { year = 1935 month = december day = 30 }
+    expirydate     = { year = 2035 month = december day = 30 }
+    rare_materials = -40.0
+    money          = 9.9
+    energy         = 12.0
+    cancel = no
+  }
+  treaty =
+  { id         = { type = 16384 id = 302 }
+    type       = trade
+    country    = "GER"
+    country    = "SWE"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 2035 month = december day = 30 }
+    metal      = 182.0
+    energy     = -28.0
+    money      = -22.4
+    cancel    = no
+  }
+  treaty =
+  { id         = { type = 16384 id = 303 }
+    type       = trade
+    country    = "GER"
+    country    = "SOV"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 2035 month = december day = 30 }
+    oil      = 40.0
+    money      = -7.8
+    cancel    = no
+  }
+  treaty =
+  { id             = { type = 16384 id = 306 }
+		isoversea = yes 
+    type           = trade
+    country        = "HOL"
+    country        = "JAP"
+    startdate      = { year = 1935 month = december day = 30 }
+    expirydate     = { year = 2035 month = december day = 30 }
+    rare_materials = -25.0
+    metal = -10.0
+    money          = 8.0
+    cancel        = no
+  }
+  treaty =
+  { id         = { type = 16384 id = 307 }
+		isoversea = yes 
+    type       = trade
+    country    = "USA"
+    country    = "JAP"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 2035 month = december day = 30 }
+    oil        = -30.0 # was 6 before 1.09
+    metal      = -40.0
+    money      = 11.4
+    cancel    = no
+  }
+  treaty =
+  { id             = { type = 16384 id = 300 }
+    type           = trade
+    country        = "HOL"
+    country        = "BEL"
+    startdate      = { year = 1935 month = december day = 30 }
+    expirydate     = { year = 2035 month = december day = 30 }
+    oil            = -10.0
+    rare_materials = -8.0
+    energy          = 18.0
+    money          = 3.0
+    cancel    = no
+  }
+  treaty =
+  { id         = { type = 16384 id = 311 }
+		isoversea = yes 
+		type       = trade
+    country    = "USA"
+    country    = "CHI"
+    startdate  = { year = 1935 month = december day = 30 }
+    expirydate = { year = 2035 month = december day = 30 }
+    oil        = -2.0
+    energy        = -25.0
+    money      = 2.1
+    cancel    = no
+  }
+  treaty =
+  { id             = { type = 16384 id = 320 }
+    type           = trade
+    country        = "NOR"
+    country        = "GER"
+    startdate      = { year = 1935 month = december day = 30 }
+    expirydate     = { year = 2035 month = december day = 30 }
+    metal = -26.0
+    money          = 3.5
+    cancel = no
+  }
+  treaty =
+  { id             = { type = 16384 id = 321 }
+		isoversea = yes 
+    type           = trade
+    country        = "SIA"
+    country        = "JAP"
+    startdate      = { year = 1935 month = december day = 30 }
+    expirydate     = { year = 2035 month = december day = 30 }
+    energy         = 10.0
+    metal = 4.0
+    rare_materials = -5.0
+    cancel        = no
+  } 
+	treaty = { 
+		id = { type = 16384 id = 324 } 
+		type = trade 
+		country = "HOL" 
+		country = "ITA" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		rare_materials = -3.0 
+		metal = -24.0
+		money = 4.0 
+		cancel = no
+		} 
+	treaty = { 
+		id = { type = 16384 id = 325 } 
+		type = trade 
+		country = "FRA" 
+		country = "BEL" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		metal = -15.0
+		energy = 20.0
+		money = 0.7 
+		cancel = no
+		} 
+	treaty = { 
+		id = { type = 16384 id = 326 } 
+		type = trade 
+		country = "CHI" 
+		country = "GER" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		rare_materials = -15.0
+		supplies = 10.0
+		cancel = no
+		} 
+	treaty = { 
+		id = { type = 16384 id = 327 } 
+		isoversea = yes 
+		type = trade 
+		country = "ENG" 
+		country = "ITA" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		rare_materials = -10.0 
+		supplies = 6.7 
+		cancel = no
+		} 
+	treaty = { 
+		id = { type = 16384 id = 329 } 
+		isoversea = yes 
+		type = trade 
+		country = "ENG" 
+		country = "YUG" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		metal = 25
+		energy = -28.0
+		money = -1.5
+		cancel = no
+		} 
+	treaty = { 
+		id = { type = 16384 id = 341 } 
+		type = trade 
+		country = "SOV" 
+		country = "SPR" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		energy = -22.0
+		metal = 20.0
+		rare_materials = 15.0
+		money = -5.3
+		cancel = no
+		}
+	treaty = { 
+		id = { type = 16384 id = 345 } 
+		isoversea = yes 
+		type = trade 
+		country = "USA" 
+		country = "ENG" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		oil = -30.0
+		money = 6.0 
+		cancel = no
+		}
+
+#Improved 1936 trades
+
+	treaty = { 
+		id = { type = 16384 id = 346 } 
+		isoversea = yes 
+		type = trade 
+		country = "ENG" 
+		country = "IRQ" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		oil = 30.0
+		money = -5.8
+		cancel = no
+		}
+	treaty = { 
+		id = { type = 16384 id = 347 } 
+		isoversea = yes 
+		type = trade 
+		country = "ENG" 
+		country = "PER" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		oil = 40.0
+		money = -1.3
+		cancel = no
+		}
+	treaty = { 
+		id = { type = 16384 id = 348 } 
+		isoversea = yes 
+		type = trade 
+		country = "IND" 
+		country = "ENG" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		energy = 60.0
+		metal = 40.0
+		oil = 10
+		money = -10.8
+		cancel = no
+		}
+	treaty = { 
+		id = { type = 16384 id = 351 } 
+		isoversea = yes 
+		type = trade 
+		country = "ENG" 
+		country = "CAN" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		metal = 15.0
+		money = -2.0
+		cancel = no
+		}
+	treaty = { 
+		id = { type = 16384 id = 358 } 
+		isoversea = yes 
+		type = trade 
+		country = "GER" 
+		country = "VEN" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		money = -15.0
+		oil = 75.0
+		cancel = no
+		}
+	treaty = { 
+		id = { type = 16384 id = 362 } 
+		type = trade 
+		country = "GER" 
+		country = "POL" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		energy = 90
+		money = -6
+		cancel = no
+		}
+	treaty = { 
+		id = { type = 16384 id = 363 } 
+		isoversea = yes 
+		type = trade 
+		country = "GER" 
+		country = "ENG" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		money = -6.5
+		rare_materials = 25.0
+		cancel = no
+		}
+	treaty = { 
+		id = { type = 16384 id = 366 } 
+		type = trade 
+		country = "POL" 
+		country = "FRA" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		energy = -43.5
+		metal = 33.0 
+		cancel = no
+		}
+
+	treaty = { 
+		id = { type = 16384 id = 367 } 
+		type = trade 
+		country = "CZE" 
+		country = "FRA" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		energy = -35.0
+		money = -0.4
+		metal = 20.0 
+		cancel = no
+		}
+
+	treaty = { 
+		id = { type = 16384 id = 368 } 
+		type = trade 
+		country = "CZE" 
+		country = "GER" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		energy = -55.0
+		money = 3.7 
+		cancel = no
+		}
+
+#id = { type = 16384 id = 370 } 
+
+	treaty = { 
+		id = { type = 16384 id = 371 } 
+		type = trade 
+		country = "POR" 
+		country = "SAF" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		energy = 22.0
+		supplies = -3.7 
+		cancel = no
+		}
+
+	treaty = { 
+		id = { type = 16384 id = 372 } 
+		type = trade 
+		country = "AUS" 
+		country = "GER" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		energy = 20.0
+		supplies = -3.4 
+		cancel = no
+		}
+
+	treaty = { 
+		id = { type = 16384 id = 373 } 
+		isoversea = yes 
+		type = trade 
+		country = "USA" 
+		country = "FRA" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		money = 2.7
+		energy = -40.0
+		cancel = no
+		}
+	treaty = { 
+		id = { type = 16384 id = 375 } 
+		isoversea = yes 
+		type = trade 
+		country = "ENG" 
+		country = "VEN" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		money = -3.0
+		oil = 30.0
+		cancel = no
+		}
+	treaty = { 
+		id = { type = 16384 id = 377 } 
+		isoversea = yes 
+		type = trade 
+		country = "ENG" 
+		country = "SCH" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		energy = -32.0
+		rare_materials = -8.0
+		metal = -14.0
+		money = 6.2
+		cancel = no
+		}
+	treaty = { 
+		id = { type = 16384 id = 380 } 
+		isoversea = yes 
+		type = trade 
+		country = "ENG" 
+		country = "ARG" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		energy = -15.0
+		money = 1.0
+		cancel = no
+		}
+	treaty = { 
+		id = { type = 16384 id = 384 } 
+		isoversea = yes 
+		type = trade 
+		country = "ENG" 
+		country = "GRE" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		energy = -16.0
+		metal = 5.0
+		money = 0.4
+		cancel = no
+		}
+	treaty = { 
+		id = { type = 16384 id = 385 } 
+		type = trade 
+		country = "GER" 
+		country = "TUR" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		rare_materials = 13.0
+		energy = -26.0
+		metal = -12.0
+		money = -0.2
+		cancel = no
+		}
+	treaty = { 
+		id = { type = 16384 id = 387 } 
+		isoversea = yes 
+		type = trade 
+		country = "ENG" 
+		country = "CZE" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		energy = 28.0
+		rare_materials = -10.0
+		money = 0.7
+		cancel = no
+		} 
+	treaty = { 
+		id = { type = 16384 id = 388 } 
+		isoversea = yes 
+		type = trade 
+		country = "ENG" 
+		country = "POL" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		energy = 30.0
+		rare_materials = -14.0
+		oil = -2.0  
+		supplies = 5.4
+		cancel = no
+		} 
+	treaty = { 
+		id = { type = 16384 id = 389 } 
+		type = trade 
+		country = "GER" 
+		country = "FIN" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		energy = -13.0
+		metal = -5.0
+		money = 1.8
+		cancel = no
+		}
+	treaty = { 
+		id = { type = 16384 id = 390 } 
+		type = trade 
+		country = "EGY" 
+		country = "SAF" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		energy = 7.0
+		money = -0.5
+		cancel = no
+		}
+	treaty = { 
+		id = { type = 16384 id = 391 } 
+		isoversea = yes 
+		type = trade 
+		country = "ENG" 
+		country = "CHI" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		energy = -10.0
+		money = 0.7
+		cancel = no
+		}
+	treaty = { 
+		id = { type = 16384 id = 392 } 
+		isoversea = yes 
+		type = trade 
+		country = "USA" 
+		country = "ENG" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		rare_materials = 20.0
+		money = -5.0
+		cancel = no
+		}
+	treaty = { 
+		id = { type = 16384 id = 393 } 
+		isoversea = yes 
+		type = trade 
+		country = "ENG" 
+		country = "FRA" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		oil = -30.0
+		rare_materials = -15.0
+		energy = -8.0
+		metal = 30.0
+		money = 7.9
+		cancel = no
+		}
+	treaty = { 
+		id = { type = 16384 id = 394 } 
+		isoversea = yes 
+		type = trade 
+		country = "JAP" 
+		country = "POR" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		rare_materials = 10.0
+		money = -2.6
+		cancel = no
+		}
+	treaty = { 
+		id = { type = 16384 id = 395 } 
+		type = trade 
+		country = "SOV" 
+		country = "SAF" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		rare_materials = 20.0
+		money = -5.3
+		cancel = no
+		}
+	treaty = { 
+		id = { type = 16384 id = 396 } 
+		isoversea = yes 
+		type = trade 
+		country = "GER" 
+		country = "COL" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		oil = 15.0
+		money = -3.0
+		cancel = no
+		}
+	treaty = { 
+		id = { type = 16384 id = 397 } 
+		isoversea = yes 
+		type = trade 
+		country = "GER" 
+		country = "PRU" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		oil = 10.0
+		money = -2.0
+		cancel = no
+		}
+	treaty = { 
+		id = { type = 16384 id = 398 } 
+		type = trade 
+		country = "GER" 
+		country = "PER" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		oil = 15.0
+		money = -3.0
+		cancel = no
+		}
+	treaty = { 
+		id = { type = 16384 id = 399 } 
+		type = trade 
+		country = "GER" 
+		country = "LUX" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		metal = 46.0
+		money = -6.1
+		cancel = no
+		}
+	treaty = { 
+		id = { type = 16384 id = 400 } 
+		type = trade 
+		country = "CHI" 
+		country = "SPR" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		metal = 10.0
+		money = -1.3
+		cancel = no
+		}
+	treaty = { 
+		id = { type = 16384 id = 401 } 
+		isoversea = yes 
+		type = trade 
+		country = "USA" 
+		country = "PHI" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		energy = -10.0
+		metal = 4.0
+		rare_materials = 10.0
+		cancel = no
+		}
+	treaty = { 
+		id = { type = 16384 id = 402 } 
+		type = trade 
+		country = "GER" 
+		country = "YUG" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		metal = 6.0
+		rare_materials = 4.0
+		money = -1.9
+		cancel = no
+		}
+	treaty = { 
+		id = { type = 16384 id = 403 } 
+		type = trade 
+		country = "HUN" 
+		country = "POR" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		rare_materials = 2.0
+		money = -0.5
+		cancel = no
+		}
+	treaty = { 
+		id = { type = 16384 id = 404 } 
+		type = trade 
+		country = "HUN" 
+		country = "TUR" 
+		startdate = { year = 1935 month = december day = 30 } 
+		expirydate = { year = 2035 month = december day = 30 } 
+		rare_materials = 1.0
+		money = -0.3
+		cancel = no
+		}
+
+  enddate   = { year = 1964 month = january day = 0 }
+  
+  
+}
+sleepevent = { 
+186 187 188 189 190 #JAP coups
+30 #Destroyers for Bases
+5 #Yugoslavia coup
+3701 #US oil embargo against Japan
+1 #2-26 incident
+1512 #Northern China creation
+1509 #China-Nanjing creation
+1515 #Northern China dissolved
+2620 #Finnish Winter War
+2633 2634 2635 2609 2654 2653 2652 2651 2655 2656 4104 4105 4106 4107 4108 4109 3802 4100 4113 3806 3807
+2900 #VIC ITA
+2 #SPR elections
+3001 #SPA setup
+3835 2035 #Manchu recognition
+362 363 357 #Ger minister deaths
+2023 2901 3105 3106 #GER ITA SCW
+2623 3102 2662 2639 #SOV SCW
+3108 #SCW SPR Wins
+3004 #SPA wins
+3101 #SPR coup
+3006 3007 3008 3009 #POR SCW
+2801 3400 #UK FRA SCW
+3100 #SCW 
+3107 #SCW cede
+2021 2800 #Vichy
+32 33 #Undeclared war
+3700 #LL
+3705 #USA Greenland
+700001 #FRA returns
+100014 #FRA liberation
+4003 #Vichy Setup
+100003 #Iraq coup
+100019 #Vichy cores
+2792 #GER Maginot
+983 984 989 #Darlan nonsense
+970 3411 #Free FRA leadership
+971 973 975 977 981 #VIC defections
+992 #VIC dissolution
+2103 #FRA sleep
+8 #Iraq switch
+17 #PH
+22 24 #Nomonhan/Khalkin
+56 57 58 581 #USA gearings
+2000 2060 #Rhineland
+2020 #Anschluss
+2030 #Munich
+2040 2041 #End of CZE
+3401 #UK GOI POL
+82 83 #ZET
+4110 #Chennault
+84 85 851 #Pitman
+26 27 28 29 #Altmark&Wese
+59 62 #HUN defect
+60 63 #ROM defect
+2750 2751 #BUL defect
+90 91 #Xian
+93 6193 #DEN
+99 #CHC CW
+9362 936 #SOV PER
+960 961 #Burma Road
+919191 #CSX
+919192 #CGX
+919195 #CHC
+919194 #SIK
+20 #Marco polo
+77 78 79 679 #Warsaw
+3814 3815 3819 3822 3828 3829 3830 3820 3821 3816 3817 3818 #Fall of China
+7005 7006 7007 7008 7009 7010 7016 #CHI integrations
+7011 7012 7013 7014 7015 #CHI wtf
+1505 1506 #MEN
+1460 1458 1456 #DFR
+100000 100001 100002 #SYR/LEB/MAD
+2663 #Vlassov
+979 980 #West Africa
+2809 #Belgian capitulation
+2810 #Dutch capitulation
+1470 #SOV Benelux creation
+3813 #Siam gives up
+}
+# ###################
+event      = "db\events\AI Events\0_AI_Universal.txt"
+event      = "db\events\AI Events\00_AI_Ideas.txt"
+event      = "db\events\AI Events\1_AI_Argentina.txt"
+event      = "db\events\AI Events\2_AI_Australia.txt"
+event      = "db\events\AI Events\3_AI_Austria.txt"
+event      = "db\events\AI Events\4_AI_Belgium.txt"
+event      = "db\events\AI Events\5_AI_Byelorussia.txt"
+event      = "db\events\AI Events\6_AI_Bolivia.txt"
+event      = "db\events\AI Events\7_AI_Bosnia.txt"
+event      = "db\events\AI Events\8_AI_Brazil.txt"
+event      = "db\events\AI Events\9_AI_Bulgaria.txt"
+event      = "db\events\AI Events\10_AI_Canada.txt"
+event      = "db\events\AI Events\11_AI_Chile.txt"
+event      = "db\events\AI Events\12_AI_Columbia.txt"
+event      = "db\events\AI Events\13_AI_CommunistChina.txt"
+event      = "db\events\AI Events\14_AI_CostaRica.txt"
+event      = "db\events\AI Events\15_AI_Cuba.txt"
+event      = "db\events\AI Events\16_AI_DominicanRepublic.txt"
+event      = "db\events\AI Events\17_AI_Ecuador.txt"
+event      = "db\events\AI Events\18_AI_Egypt.txt"
+event      = "db\events\AI Events\19_AI_ElSalvador.txt"
+event      = "db\events\AI Events\20_AI_Finland.txt"
+event      = "db\events\AI Events\21_AI_Flanders.txt"
+event      = "db\events\AI Events\22_AI_France.txt"
+event      = "db\events\AI Events\23_AI_Germany.txt"
+event      = "db\events\AI Events\24_AI_GuangxiClique.txt"
+event      = "db\events\AI Events\25_AI_Guatemala.txt"
+event      = "db\events\AI Events\26_AI_Haiti.txt"
+event      = "db\events\AI Events\27_AI_Honduras.txt"
+event      = "db\events\AI Events\28_AI_Hungary.txt"
+event      = "db\events\AI Events\29_AI_India.txt"
+event      = "db\events\AI Events\30_AI_Iraq.txt"
+event      = "db\events\AI Events\31_AI_Ireland.txt"
+event      = "db\events\AI Events\32_AI_Italy.txt"
+event      = "db\events\AI Events\33_AI_Japan.txt"
+event      = "db\events\AI Events\34_AI_Lebanon.txt"
+event      = "db\events\AI Events\35_AI_Liberia.txt"
+event      = "db\events\AI Events\36_AI_Manchukuo.txt"
+event      = "db\events\AI Events\37_AI_Mexico.txt"
+event      = "db\events\AI Events\38_AI_MongolianRepublic.txt"
+event      = "db\events\AI Events\39_AI_NationalistChina.txt"
+event      = "db\events\AI Events\40_AI_NationalistSpain.txt"
+event      = "db\events\AI Events\41_AI_Nepal.txt"
+event      = "db\events\AI Events\42_AI_Netherlands.txt"
+event      = "db\events\AI Events\43_AI_NewZealand.txt"
+event      = "db\events\AI Events\44_AI_Nicaragua.txt"
+event      = "db\events\AI Events\45_AI_NorthKorea.txt"
+event      = "db\events\AI Events\46_AI_Panama.txt"
+event      = "db\events\AI Events\47_AI_Paraguay.txt"
+event      = "db\events\AI Events\48_AI_Persia.txt"
+event      = "db\events\AI Events\49_AI_Peru.txt"
+event      = "db\events\AI Events\50_AI_Poland.txt"
+event      = "db\events\AI Events\51_AI_Primorsk.txt"
+event      = "db\events\AI Events\52_AI_RepublicanSpain.txt"
+event      = "db\events\AI Events\53_AI_Romania.txt"
+event      = "db\events\AI Events\54_AI_SaudiArabia.txt"
+event      = "db\events\AI Events\55_AI_Serbia.txt"
+event      = "db\events\AI Events\56_AI_Shanxi.txt"
+event      = "db\events\AI Events\57_AI_Siam.txt"
+event      = "db\events\AI Events\58_AI_Sinkiang.txt"
+event      = "db\events\AI Events\59_AI_SouthAfrica.txt"
+event      = "db\events\AI Events\60_AI_SovietUnion.txt"
+event      = "db\events\AI Events\61_AI_Sudan.txt"
+event      = "db\events\AI Events\62_AI_Sweden.txt"
+event      = "db\events\AI Events\63_AI_Switzerland.txt"
+event      = "db\events\AI Events\64_AI_Syria.txt"
+event      = "db\events\AI Events\65_AI_TannuTuva.txt"
+event      = "db\events\AI Events\66_AI_Turkey.txt"
+event      = "db\events\AI Events\67_AI_Ukraine.txt"
+event      = "db\events\AI Events\68_AI_UnitedKingdom.txt"
+event      = "db\events\AI Events\69_AI_Uruguay.txt"
+event      = "db\events\AI Events\70_AI_USA.txt"
+event      = "db\events\AI Events\71_AI_Wallonia.txt"
+event      = "db\events\AI Events\72_AI_Venezuela.txt"
+event      = "db\events\AI Events\73_AI_XibeiSanMa.txt"
+event      = "db\events\AI Events\74_AI_Yugoslavia.txt"
+event      = "db\events\AI Events\75_AI_Yunnan.txt"
+event      = "db\events\AI Events\76_AI_Czechoslovakia.txt"
+event      = "db\events\AI Events\77_AI_Mengkukuo.txt"
+event      = "db\events\AI Events\78_AI_VichyFrance.txt"
+event      = "db\events\AI Events\79_AI_Ethiopia.txt"
+event      = "db\events\AI Events\80_AI_Estonia.txt"
+event      = "db\events\AI Events\81_AI_Tibet.txt"
+event      = "db\events\AI Events\82_AI_Luxembourg.txt"
+event      = "db\events\AI Events\83_AI_Portugal.txt"
+event      = "db\events\AI Events\84_AI_Denmark.txt"
+event      = "db\events\AI Events\85_AI_Norway.txt"
+event      = "db\events\AI Events\86_AI_Greece.txt"
+event      = "db\events\AI Events\87_AI_Albania.txt"
+event      = "db\events\AI Events\88_AI_Afghanistan.txt"
+event      = "db\events\AI Events\89_AI_Bhutan.txt"
+event      = "db\events\AI Events\90_AI_Oman.txt"
+event      = "db\events\AI Events\91_AI_Yemen.txt"
+event      = "db\events\AI Events\92_AI_Croatia.txt"
+event      = "db\events\AI Events\93_AI_Slovenia.txt"
+event      = "db\events\AI Events\94_AI_Latvia.txt"
+event      = "db\events\AI Events\95_AI_Lithuania.txt"
+event      = "db\events\AI Events\96_AI_Slovakia.txt"
+event      = "db\events\AI Events\97_AI_Jordan.txt"
+event      = "db\events\AI Events\98_AI_Mozambique.txt"
+event      = "db\events\AI Events\99_AI_Angola.txt"
+event      = "db\events\AI Events\1000_AI_Philippines.txt"
+event      = "db\events\AI Events\1001_AI_Scotland.txt"
+event      = "db\events\AI Events\1002_AI_England.txt"
+event      = "db\events\AI Events\1003_AI_Wales.txt"
+event      = "db\events\AI Events\1004_AI_NorthernIreland.txt"
+event      = "db\events\AI Events\1005_AI_Iceland.txt"
+event      = "db\events\AI Events\1006_AI_Scandinavia.txt"
+event      = "db\events\AI Events\1007_AI_CSA.txt"
+event      = "db\events\AI Events\1008_AI_California.txt"
+event      = "db\events\AI Events\1009_AI_Quebec.txt"
+event      = "db\events\AI Events\1010_AI_Texas.txt"
+event      = "db\events\AI Events\1011_AI_NationalistVietnam.txt"
+event      = "db\events\AI Events\1012_AI_Laos.txt"
+event      = "db\events\AI Events\1013_AI_Cambodia.txt"
+event      = "db\events\AI Events\1014_AI_Malaysia.txt"
+event      = "db\events\AI Events\1015_AI_Palestine.txt"
+event      = "db\events\AI Events\1016_AI_Kuwait.txt"
+event      = "db\events\AI Events\1017_AI_Brunei.txt"
+event      = "db\events\AI Events\1018_AI_Sarawak.txt"
+event      = "db\events\AI Events\1019_AI_DDR.txt"
+event      = "db\events\AI Events\1020_AI_DFR.txt"
+event      = "db\events\AI Events\1021_AI_Madagascar.txt"
+event      = "db\events\AI Events\1022_AI_WestIndies.txt"
+event      = "db\events\AI Events\1023_AI_Algeria.txt"
+event      = "db\events\AI Events\1024_AI_Morocco.txt"
+event      = "db\events\AI Events\1025_AI_Tunisia.txt"
+event      = "db\events\AI Events\1026_AI_BeninSahel.txt"
+event      = "db\events\AI Events\1027_AI_EquatorialAfrica.txt"
+event      = "db\events\AI Events\1028_AI_UnionofMali.txt"
+event      = "db\events\AI Events\1029_AI_EastAfricanUnion.txt"
+event      = "db\events\AI Events\1030_AI_Rhodesia.txt"
+event      = "db\events\AI Events\1031_AI_Nigeria.txt"
+event      = "db\events\AI Events\1032_AI_Libya.txt"
+event      = "db\events\AI Events\1033_AI_Somalia.txt"
+event      = "db\events\AI Events\1034_AI_Ghana.txt"
+event      = "db\events\AI Events\1035_AI_Gambia.txt"
+event      = "db\events\AI Events\1036_AI_Guyana.txt"
+event      = "db\events\AI Events\1037_AI_SierraLeone.txt"
+event      = "db\events\AI Events\1038_AI_Singapore.txt"
+event      = "db\events\AI Events\1039_AI_Jamaica.txt"
+event      = "db\events\AI Events\1040_AI_Trinidad&Tobago.txt"
+event      = "db\events\AI Events\1041_AI_Kenya.txt"
+event      = "db\events\AI Events\1042_AI_Uganda.txt"
+event      = "db\events\AI Events\1043_AI_Tanganyika.txt"
+event      = "db\events\AI Events\1044_AI_Burma.txt"
+event      = "db\events\AI Events\1045_AI_Guinea.txt"
+event      = "db\events\AI Events\1046_AI_Mauritania.txt"
+event      = "db\events\AI Events\1047_AI_Senegal.txt"
+event      = "db\events\AI Events\1048_AI_UpperVolta.txt"
+event      = "db\events\AI Events\1049_AI_IvoryCoast.txt"
+event      = "db\events\AI Events\1050_AI_Niger.txt"
+event      = "db\events\AI Events\1051_AI_Togo.txt"
+event      = "db\events\AI Events\1052_AI_Chad.txt"
+event      = "db\events\AI Events\1053_AI_CentralAfrica.txt"
+event      = "db\events\AI Events\1054_AI_CongoBrazzaville.txt"
+event      = "db\events\AI Events\1055_AI_Gabon.txt"
+event      = "db\events\AI Events\1056_AI_Cameroon.txt"
+event      = "db\events\AI Events\1057_AI_Indonesia.txt"
+event      = "db\events\AI Events\1058_AI_Malta.txt"
+event      = "db\events\AI Events\1059_AI_Cyprus.txt"
+event      = "db\events\AI Events\1060_AI_Congo.txt"
+event      = "db\events\AI Events\1061_AI_Namibia.txt"
+event      = "db\events\AI Events\1062_AI_Indochina.txt"
+event      = "db\events\AI Events\1063_AI_Pakistan.txt"
+event      = "db\events\AI Events\1064_AI_ArabFederation.txt"
+event      = "db\events\AI Events\1065_AI_OttomanEmpire.txt"
+event      = "db\events\AI Events\1066_AI_Kashmir.txt"
+event      = "db\events\AI Events\1067_AI_Kurdistan.txt"
+event      = "db\events\AI Events\1068_AI_NorthernChina.txt"
+event      = "db\events\AI Events\1069_AI_ChinaNanjing.txt"
+event      = "db\events\AI Events\1070_AI_USCA.txt"
+event      = "db\events\AI Events\1071_AI_GreaterColumbia.txt"
+event      = "db\events\AI Events\1072_AI_CommunistVietnam.txt"
+event      = "db\events\AI Events\1073_AI_Euskadi.txt"
+event      = "db\events\AI Events\1074_AI_Montenegro.txt"
+event      = "db\events\AI Events\1075_AI_Korea.txt"
+event      = "db\events\AI Events\1076_AI_ItalianSocialRepublic.txt"
+event      = "db\events\AI Events\1077_AI_Russia.txt"
+event      = "db\events\AI Events\1078_AI_Georgia.txt"
+event      = "db\events\AI Events\1079_AI_Armenia.txt"
+event      = "db\events\AI Events\1080_AI_Azerbaijan.txt"
+event      = "db\events\AI Events\1081_AI_Kazakhstan.txt"
+event      = "db\events\AI Events\1082_AI_Uzbekistan.txt"
+event      = "db\events\AI Events\1083_AI_Turkmenistan.txt"
+event      = "db\events\AI Events\1084_AI_TransuralRepublic.txt"
+event      = "db\events\AI Events\1085_AI_Siberia.txt"
+event      = "db\events\AI Events\1086_AI_Tajikistan.txt"
+event      = "db\events\AI Events\1087_AI_Kyrgizistan.txt"
+event      = "db\events\AI Events\1088_AI_Rwanda.txt"
+event      = "db\events\AI Events\1089_AI_Ceylon.txt"
+event      = "db\events\AI Events\1090_AI_Israel.txt"
+event      = "db\events\AI Events\1091_AI_GeneralGovernment.txt"
+event      = "db\events\AI Events\1092_AI_AzadHind.txt"
+event      = "db\events\AI Events\1093_AI_Catalonia.txt"
+event      = "db\events\AI Events\1094_AI_NationalistFrance.txt"
+event      = "db\events\AI Events\1095_AI_PuertoRico.txt"
+event      = "db\events\AI Events\1096_AI_TrucialStates.txt"
+event      = "db\events\AI Events\1097_AI_Qatar.txt"
+event      = "db\events\AI Events\1098_AI_ItalianEastAfrica.txt"
+event      = "db\events\AI Events\1099_AI_Bahrain.txt"
+event      = "db\events\AI Events\1100_AI_Newfoundland.txt"
+event      = "db\events\AI Events\1101_AI_Malawi.txt"
+event      = "db\events\AI Events\1102_AI_Djibouti.txt"
+event      = "db\events\AI Events\1103_AI_Eritrea.txt"
+event      = "db\events\AI Events\1104_AI_Botswana.txt"
+event      = "db\events\AI Events\1105_AI_CapeVerde.txt"
+event      = "db\events\AI Events\1106_AI_GuineaBissau.txt"
+event      = "db\events\AI Events\1107_AI_SaoTomeandPrincipe.txt"
+event      = "db\events\AI Events\1108_AI_EastTimor.txt"
+event      = "db\events\AI Events\1109_AI_Fiji.txt"
+event      = "db\events\AI Events\1110_AI_Barbados.txt"
+event      = "db\events\AI Events\1111_AI_SolomonIslands.txt"
+event      = "db\events\AI Events\1112_AI_Kiribati.txt"
+event      = "db\events\AI Events\1113_AI_TheBahamas.txt"
+event      = "db\events\AI Events\1114_AI_Mauritius.txt"
+event      = "db\events\AI Events\1115_AI_Zambia.txt"
+event      = "db\events\AI Events\1116_AI_Macedonia.txt"
+event      = "db\events\AI Events\1117_AI_Moldova.txt"
+event      = "db\events\AI Events\1118_AI_PapuaNewGuinea.txt"
+event      = "db\events\AI Events\1119_AI_Brittany.txt"
+event      = "db\events\AI Events\1120_AI_DonRepublic.txt"
+event      = "db\events\AI Events\1121_AI_Chechnya.txt"
+event      = "db\events\AI Events\1122_AI_Alaska.txt"
+event      = "db\events\AI Events\1123_AI_WestPapua.txt"
+event      = "db\events\AI Events\1124_AI_Micronesia.txt"
+event      = "db\events\AI Events\1125_AI_Bali.txt"
+event      = "db\events\AI Events\1126_AI_Turkestan.txt"
+event      = "db\events\AI Events\1127_AI_RepublicofYemen.txt"
+event      = "db\events\AI Events\1128_AI_WesternSahara.txt"
+event      = "db\events\AI Events\1129_AI_Bangladesh.txt"
+event      = "db\events\AI Events\1130_AI_UnitedArabEmirates.txt"
+event      = "db\events\AI Events\1131_AI_EastTurkestan.txt"
+event      = "db\events\AI Events\1132_AI_RussianRepublic.txt"
+event      = "db\events\AI Events\1133_AI_Belize.txt"
+event      = "db\events\AI Events\1134_AI_Dahomey.txt"
+event      = "db\events\AI Events\1135_AI_EquatorialGuinea.txt"
+event      = "db\events\AI Events\1136_AI_Seychelles.txt"
+event      = "db\events\AI Events\1137_AI_Suriname.txt"
+event      = "db\events\AI Events\1138_AI_AntiguaandBarbuda.txt"
+event      = "db\events\AI Events\1139_AI_Grenada.txt"
+event      = "db\events\AI Events\1140_AI_SaintLucia.txt"
+event      = "db\events\AI Events\1141_AI_Palau.txt"
+event      = "db\events\AI Events\1142_AI_Samoa.txt"
+event      = "db\events\AI Events\1143_AI_Nauru.txt"
+event      = "db\events\AI Events\1144_AI_MarshallIslands.txt"
+event      = "db\events\AI Events\1145_AI_Vanuatu.txt"
+event      = "db\events\AI Events\1146_AI_Mali.txt"
+event      = "db\events\AI Events\1147_AI_Thailand.txt"
+event      = "db\events\AI Events\1148_AI_Kalmykia.txt"
+event      = "db\events\AI Events\1149_AI_Taiwan.txt"
+event      = "db\events\AI Events\1150_AI_AmericanState.txt"
+event      = "db\events\AI Events\1151_AI_FarEasternFederation.txt"
+event      = "db\events\AI Events\1152_AI_TranscaucasianRepublic.txt"
+event      = "db\events\AI Events\1153_AI_SouthSeasMandate.txt"
+event      = "db\events\AI Events\1154_AI_CzechRepublic.txt"
+event      = "db\events\AI Events\1155_AI_Cabinda.txt"
+event      = "db\events\AI Events\1156_AI_HellenicState.txt"
+event      = "db\events\AI Events\1157_AI_RepublicofCanada.txt"
+event      = "db\events\AI Events\1158_AI_NationalistSyria.txt"
+event      = "db\events\AI Events\1159_AI_BeneluxUnion.txt"
+event      = "db\events\AI Events\1160_AI_NewMexico.txt"
+event      = "db\events\AI Events\1161_AI_CelticFederation.txt"
+event      = "db\events\AI Events\1162_AI_SovietUkraine.txt"
+event      = "db\events\AI Events\1163_AI_Galicia.txt"
+event      = "db\events\AI Events\1164_AI_Padania.txt"
+event      = "db\events\AI Events\1165_AI_Tatarstan.txt"
+event      = "db\events\AI Events\1166_AI_Sakhalin.txt"
+event      = "db\events\AI Events\1167_AI_Vancouver.txt"
+event      = "db\events\AI Events\1168_AI_Crimea.txt"
+event      = "db\events\AI Events\1169_AI_Greenland.txt"
+event      = "db\events\AI Events\1170_AI_ChineseState.txt"
+event      = "db\events\AI Events\1171_AI_PeruBolivianConfederation.txt"
+event      = "db\events\AI Events\1172_AI_USGA.txt"
+event      = "db\events\AI Events\1173_AI_SerbianState.txt"
+event      = "db\events\AI Events\1174_AI_Bashkortostan.txt"
+event      = "db\events\AI Events\1175_AI_Karelia.txt"
+event      = "db\events\AI Events\1176_AI_SouthArabUnion.txt"
+event      = "db\events\AI Events\1177_AI_NordicUnion.txt"
+event      = "db\events\AI Events\1178_AI_ItalianRepublic.txt"
+event      = "db\events\AI Events\1179_AI_RepublicofEngland.txt"
+event      = "db\events\AI Events\1180_AI_BalticUnion.txt"
+event      = "db\events\AI Events\1181_AI_Hawaii.txt"
+event      = "db\events\AI Events\1182_AI_SFRYugoslavia.txt"
+event      = "db\events\AI Events\1183_AI_RepublicofAustralia.txt"
+event      = "db\events\AI Events\1184_AI_RepublicofRomania.txt"
+event      = "db\events\AI Events\1185_AI_Moscowy.txt"
+event      = "db\events\AI Events\1186_AI_Novgorod.txt"
+event      = "db\events\AI Events\1187_AI_KubanRepublic.txt"
+event      = "db\events\AI Events\1188_AI_SwissRepublic.txt"
+event      = "db\events\AI Events\1189_AI_PolynesianFederation.txt"
+event      = "db\events\AI Events\1190_AI_Bavaria.txt"
+event      = "db\events\AI Events\1191_AI_CameroonianState.txt"
+event      = "db\events\AI Events\1192_AI_RepublicofEgypt.txt"
+event      = "db\events\AI Events\1193_AI_Cornwall.txt"
+event      = "db\events\AI Events\1194_AI_Mongolia.txt"
+event      = "db\events\AI Events\1195_AI_BrazilianState.txt"
+event      = "db\events\AI Events\1196_AI_MexicanState.txt"
+event      = "db\events\AI Events\1197_AI_SocialistFrance.txt"
+event      = "db\events\AI Events\1198_AI_AlashFederation.txt"
+event      = "db\events\AI Events\1199_AI_Dakota.txt"
+event      = "db\events\AI Events\1200_AI_SriLanka.txt"
+event      = "db\events\AI Events\1201_AI_ChineseIslamicRepublic.txt"
+event      = "db\events\AI Events\1202_AI_SpanishState.txt"
+event      = "db\events\AI Events\1203_AI_Holland.txt"
+
+# Includes for global data
+include = "db\Improved 1936 events.txt"
+
+# Victory points distribution
+include = "scenarios\Improved 1936\VP.inc"
+
+# Include files for each country tag used in the scenario
+
+include = "scenarios\Improved 1936\Resources.inc"
+include = "scenarios\Improved 1936\Bases.inc"
+include = "scenarios\Improved 1936\Improvements.inc"
+include = "scenarios\Improved 1936\Afghanistan.inc"
+include = "scenarios\Improved 1936\Albania.inc"
+include = "scenarios\Improved 1936\Argentina.inc"
+include = "scenarios\Improved 1936\Australia.inc"
+include = "scenarios\Improved 1936\Austria.inc"
+include = "scenarios\Improved 1936\Belgium.inc"
+include = "scenarios\Improved 1936\Bhutan.inc"
+include = "scenarios\Improved 1936\Bolivia.inc"
+include = "scenarios\Improved 1936\Brazil.inc"
+include = "scenarios\Improved 1936\Bulgaria.inc"
+include = "scenarios\Improved 1936\Canada.inc"
+include = "scenarios\Improved 1936\Guangxi Clique.inc"
+include = "scenarios\Improved 1936\Communist China.inc"
+include = "scenarios\Improved 1936\Nationalist China.inc"
+include = "scenarios\Improved 1936\Chile.inc"
+include = "scenarios\Improved 1936\Columbia.inc"
+include = "scenarios\Improved 1936\Costa Rica.inc"
+include = "scenarios\Improved 1936\Shanxi.inc"
+include = "scenarios\Improved 1936\Cuba.inc"
+include = "scenarios\Improved 1936\Xibei San Ma.inc"
+include = "scenarios\Improved 1936\Yunnan.inc"
+include = "scenarios\Improved 1936\Czechoslovakia.inc"
+include = "scenarios\Improved 1936\Denmark.inc"
+include = "scenarios\Improved 1936\Dominican Republic.inc"
+include = "scenarios\Improved 1936\Ecuador.inc"
+include = "scenarios\Improved 1936\Greenland.inc"
+include = "scenarios\Improved 1936\United Kingdom.inc"
+include = "scenarios\Improved 1936\Estonia.inc"
+include = "scenarios\Improved 1936\Ethiopia.inc"
+include = "scenarios\Improved 1936\Finland.inc"
+include = "scenarios\Improved 1936\France.inc"
+include = "scenarios\Improved 1936\Germany.inc"
+include = "scenarios\Improved 1936\Greece.inc"
+include = "scenarios\Improved 1936\Guatemala.inc"
+include = "scenarios\Improved 1936\Haiti.inc"
+include = "scenarios\Improved 1936\Netherlands.inc"
+include = "scenarios\Improved 1936\Honduras.inc"
+include = "scenarios\Improved 1936\Hungary.inc"
+include = "scenarios\Improved 1936\Ireland.inc"
+include = "scenarios\Improved 1936\Iraq.inc"
+include = "scenarios\Improved 1936\Italy.inc"
+include = "scenarios\Improved 1936\Japan.inc"
+include = "scenarios\Improved 1936\Latvia.inc"
+include = "scenarios\Improved 1936\Liberia.inc"
+include = "scenarios\Improved 1936\Lithuania.inc"
+include = "scenarios\Improved 1936\Luxembourg.inc"
+include = "scenarios\Improved 1936\Manchukuo.inc"
+include = "scenarios\Improved 1936\Mexico.inc"
+include = "scenarios\Improved 1936\Mongolia.inc"
+include = "scenarios\Improved 1936\Nepal.inc"
+include = "scenarios\Improved 1936\Nicaragua.inc"
+include = "scenarios\Improved 1936\Norway.inc"
+include = "scenarios\Improved 1936\New Zealand.inc"
+include = "scenarios\Improved 1936\Oman.inc"
+include = "scenarios\Improved 1936\Panama.inc"
+include = "scenarios\Improved 1936\Paraguay.inc"
+include = "scenarios\Improved 1936\Persia.inc"
+include = "scenarios\Improved 1936\Philippines.inc"
+include = "scenarios\Improved 1936\Poland.inc"
+include = "scenarios\Improved 1936\Portugal.inc"
+include = "scenarios\Improved 1936\Peru.inc"
+include = "scenarios\Improved 1936\Rhodesia&Nyasaland.inc"
+include = "scenarios\Improved 1936\Romania.inc"
+include = "scenarios\Improved 1936\South Africa.inc"
+include = "scenarios\Improved 1936\El salvador.inc"
+include = "scenarios\Improved 1936\Saudi Arabia.inc"
+include = "scenarios\Improved 1936\switzerland.inc"
+include = "scenarios\Improved 1936\Siam.inc"
+include = "scenarios\Improved 1936\Sinkiang.inc"
+include = "scenarios\Improved 1936\Soviet Union.inc"
+include = "scenarios\Improved 1936\Republican Spain.inc"
+include = "scenarios\Improved 1936\Sweden.inc"
+include = "scenarios\Improved 1936\Tannu Tuva.inc"
+include = "scenarios\Improved 1936\Tibet.inc"
+include = "scenarios\Improved 1936\Turkey.inc"
+include = "scenarios\Improved 1936\Uruguay.inc"
+include = "scenarios\Improved 1936\USA.inc"
+include = "scenarios\Improved 1936\Venezuela.inc"
+include = "scenarios\Improved 1936\Yemen.inc"
+include = "scenarios\Improved 1936\Yugoslavia.inc"
+include = "scenarios\Improved 1936\India.inc"
+include = "scenarios\Improved 1936\Egypt.inc"
+include = "scenarios\Improved 1936\Sudan.inc"
+include = "scenarios\Improved 1936\Jordan.inc"
+include = "scenarios\Improved 1936\Iceland.inc"
+include = "scenarios\Improved 1936\Malaysia.inc"
+include = "scenarios\Improved 1936\Brunei.inc"
+include = "scenarios\Improved 1936\Kuwait.inc"
+include = "scenarios\Improved 1936\Palestine.inc"
+include = "scenarios\Improved 1936\Syria.inc"
+include = "scenarios\Improved 1936\Lebanon.inc"
+include = "scenarios\Improved 1936\Sarawak.inc"
+include = "scenarios\Improved 1936\Cambodia.inc"
+include = "scenarios\Improved 1936\Laos.inc"
+include = "scenarios\Improved 1936\Nationalist Vietnam.inc"
+include = "scenarios\Improved 1936\Trucial States.inc"
+include = "scenarios\Improved 1936\Bahrain.inc"
+include = "scenarios\Improved 1936\Newfoundland.inc"
+include = "scenarios\Improved 1936\Rebels.inc"
