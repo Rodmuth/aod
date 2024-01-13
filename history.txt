@@ -1,0 +1,12 @@
+1936-00-00 05:00: 5:00 January 1, 1936 : Release Locked Divisions happened to us.
+1936-00-01 00:00: 0:00 January 2, 1936 : Manchukuo had The Manchurian Transfer of Xilinhot .
+1936-00-01 00:00: 0:00 January 2, 1936 : Republic of China had Annexation of the Shanxi Warlords .
+1936-00-01 00:00: 0:00 January 2, 1936 : Republic of China annexed Shanxi.
+1936-00-01 00:00: 0:00 January 2, 1936 : Republic of China had Annexation of the Yunnan Warlords .
+1936-00-01 00:00: 0:00 January 2, 1936 : Republic of China annexed Yunnan.
+1936-00-01 00:00: 0:00 January 2, 1936 : Republic of China had Annexation of the Xibei Warlords .
+1936-00-01 00:00: 0:00 January 2, 1936 : Republic of China annexed Xibei San Ma.
+1936-00-01 00:00: 0:00 January 2, 1936 : Republic of China had Annexation of the Guangxi Warlords .
+1936-00-01 00:00: 0:00 January 2, 1936 : Republic of China annexed Guangxi Clique.
+1936-00-01 00:00: 0:00 January 2, 1936 : Republic of China had Annexation of Xinjiang .
+1936-00-01 00:00: 0:00 January 2, 1936 : Republic of China annexed Sinkiang.

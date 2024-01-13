@@ -1,0 +1,2388 @@
+1936-00-00 00:00: _FrontAI::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 00:00: _FrontAI::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 00:00: _FrontAI::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 00:00: _FrontAI::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 00:00: _FrontAI::NotifyTick for _Communist China used _-858993460 ticks.
+1936-00-00 00:00: _FrontAI::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Afghanistan used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Afghanistan used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Afghanistan used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Albania used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Albania used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Albania used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Argentina used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Argentina used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Argentina used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Australia used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Australia used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Australia used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Austria used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Austria used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Austria used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Belgium used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Belgium used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Belgium used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Bhutan used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Bhutan used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Bhutan used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Bolivia used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Bolivia used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Bolivia used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Brazil used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Brazil used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Brazil used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Bulgaria used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Bulgaria used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Bulgaria used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Canada used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Canada used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Canada used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Guangxi Clique used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Guangxi Clique used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Guangxi Clique used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Communist China used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Communist China used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Communist China used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Chile used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Chile used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Chile used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Colombia used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Colombia used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Colombia used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Costa Rica used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Costa Rica used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Costa Rica used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Shanxi used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Shanxi used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Shanxi used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Cuba used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Cuba used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Cuba used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Xibei San Ma used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Xibei San Ma used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Xibei San Ma used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Yunnan used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Yunnan used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Yunnan used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Czechoslovakia used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Czechoslovakia used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Czechoslovakia used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Denmark used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Denmark used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Denmark used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Dominican Republic used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Dominican Republic used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Dominican Republic used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Ecuador used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Ecuador used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Ecuador used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _United Kingdom used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _United Kingdom used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _United Kingdom used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Estonia used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Estonia used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Estonia used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Finland used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Finland used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Finland used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _France used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _France used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _France used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Germany used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Germany used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Germany used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Greece used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Greece used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Greece used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Guatemala used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Guatemala used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Guatemala used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Haiti used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Haiti used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Haiti used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Netherlands used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Netherlands used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Netherlands used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Honduras used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Honduras used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Honduras used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Hungary used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Hungary used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Hungary used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Ireland used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Ireland used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Ireland used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Iraq used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Iraq used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Iraq used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Latvia used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Latvia used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Latvia used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Liberia used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Liberia used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Liberia used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Lithuania used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Lithuania used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Lithuania used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Luxemburg used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Luxemburg used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Luxemburg used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Mexico used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Mexico used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Mongolia used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Mongolia used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Mongolia used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Nepal used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Nepal used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Nepal used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Nicaragua used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Nicaragua used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Nicaragua used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Norway used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Norway used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Norway used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _New Zealand used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _New Zealand used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _New Zealand used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Oman used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Oman used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Oman used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Panama used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Panama used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Panama used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Paraguay used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Paraguay used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Paraguay used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Iran used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Iran used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Iran used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Philippines used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Philippines used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Philippines used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Poland used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Poland used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Poland used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Portugal used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Portugal used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Portugal used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Peru used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Peru used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Peru used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Romania used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Romania used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Romania used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _South Africa used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _South Africa used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _South Africa used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _El Salvador used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _El Salvador used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _El Salvador used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Saudi Arabia used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Saudi Arabia used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Saudi Arabia used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Switzerland used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Switzerland used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Switzerland used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Siam used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Siam used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Siam used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Sinkiang used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Sinkiang used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Sinkiang used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Soviet Union used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Soviet Union used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Republican Spain used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Republican Spain used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Republican Spain used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Sweden used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Sweden used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Sweden used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Tannu Tuva used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Tannu Tuva used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Tannu Tuva used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Tibet used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Tibet used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Tibet used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Turkey used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Turkey used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Turkey used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Uruguay used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Uruguay used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Uruguay used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _USA used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _USA used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _USA used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Venezuela used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Venezuela used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Venezuela used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Yemen used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Yemen used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Manchukuo used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Soviet Union used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Yemen used _-858993460 ticks.
+1936-00-00 01:00: _KingAI::NotifyTick for _Yugoslavia used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Yugoslavia used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Yugoslavia used _-858993460 ticks.
+1936-00-00 01:00: _Admiral::NotifyTick for _Mexico used _-858993460 ticks.
+1936-00-00 01:00: _FrontAI::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 01:00: _FrontAI::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 01:00: _FrontAI::NotifyTick for _Communist China used _-858993460 ticks.
+1936-00-00 01:00: _FrontAI::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Bolivia used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Argentina used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Bhutan used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Ecuador used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Communist China used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Bulgaria used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Brazil used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Canada used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Guangxi Clique used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Chile used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Costa Rica used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Shanxi used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Cuba used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Xibei San Ma used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Luxemburg used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Finland used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Netherlands used _-858993460 ticks.
+1936-00-00 02:00: _Admiral::NotifyTick for _Netherlands used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Hungary used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Honduras used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Ireland used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Iraq used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Liberia used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Lithuania used _-858993460 ticks.
+1936-00-00 02:00: _FrontAI::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Mexico used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Nepal used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Mongolia used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Nicaragua used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Norway used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _New Zealand used _-858993460 ticks.
+1936-00-00 02:00: _Admiral::NotifyTick for _New Zealand used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Oman used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Panama used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Paraguay used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Philippines used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Iran used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _South Africa used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Romania used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _El Salvador used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Saudi Arabia used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Switzerland used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Turkey used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Uruguay used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Yemen used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Yugoslavia used _-858993460 ticks.
+1936-00-00 02:00: _FrontAI::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Afghanistan used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Albania used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Australia used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Austria used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Belgium used _-858993460 ticks.
+1936-00-00 02:00: _Admiral::NotifyTick for _Canada used _-858993460 ticks.
+1936-00-00 02:00: _Admiral::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Colombia used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Yunnan used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Czechoslovakia used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Denmark used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Dominican Republic used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _United Kingdom used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Estonia used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _France used _-858993460 ticks.
+1936-00-00 02:00: _Admiral::NotifyTick for _Germany used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Germany used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Greece used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Guatemala used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Haiti used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Latvia used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Poland used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Portugal used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Peru used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Siam used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Sinkiang used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Soviet Union used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Republican Spain used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Sweden used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Tannu Tuva used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Tibet used _-858993460 ticks.
+1936-00-00 02:00: _FrontAI::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 02:00: _Admiral::NotifyTick for _USA used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _USA used _-858993460 ticks.
+1936-00-00 02:00: _AirMarshal::NotifyTick for _Venezuela used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _USA used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Ireland used _-858993460 ticks.
+1936-00-00 03:00: _Admiral::NotifyTick for _Australia used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Honduras used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Bulgaria used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Canada used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Brazil used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Hungary used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Chile used _-858993460 ticks.
+1936-00-00 03:00: _Admiral::NotifyTick for _United Kingdom used _-858993460 ticks.
+1936-00-00 03:00: _Admiral::NotifyTick for _Netherlands used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Xibei San Ma used _-858993460 ticks.
+1936-00-00 03:00: _Admiral::NotifyTick for _France used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Cuba used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Costa Rica used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Shanxi used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Netherlands used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Finland used _-858993460 ticks.
+1936-00-00 03:00: _Admiral::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Luxemburg used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Iran used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Nicaragua used _-858993460 ticks.
+1936-00-00 03:00: _FrontAI::NotifyTick for _Communist China used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Mongolia used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Lithuania used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Nepal used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Philippines used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Norway used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Paraguay used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _New Zealand used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Panama used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Oman used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _South Africa used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Tibet used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Czechoslovakia used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _El Salvador used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Romania used _-858993460 ticks.
+1936-00-00 03:00: _FrontAI::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Yunnan used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Australia used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Uruguay used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Saudi Arabia used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Yugoslavia used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Yemen used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Afghanistan used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Albania used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Colombia used _-858993460 ticks.
+1936-00-00 03:00: _Admiral::NotifyTick for _Canada used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Belgium used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Austria used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Dominican Republic used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Denmark used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Haiti used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Guatemala used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Germany used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Greece used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Republican Spain used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Sinkiang used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Siam used _-858993460 ticks.
+1936-00-00 03:00: _FrontAI::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Bolivia used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Argentina used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Bhutan used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Ecuador used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Communist China used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Guangxi Clique used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Iraq used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Liberia used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Mexico used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Switzerland used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Turkey used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _United Kingdom used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Estonia used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _France used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Latvia used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Peru used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Poland used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Portugal used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Soviet Union used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Sweden used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Tannu Tuva used _-858993460 ticks.
+1936-00-00 03:00: _AirMarshal::NotifyTick for _Venezuela used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Finland used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Netherlands used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Shanxi used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Costa Rica used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Cuba used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Chile used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Bulgaria used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Hungary used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Canada used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Brazil used _-858993460 ticks.
+1936-00-00 04:00: _Admiral::NotifyTick for _France used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Xibei San Ma used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Philippines used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Luxemburg used _-858993460 ticks.
+1936-00-00 04:00: _Admiral::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 04:00: _FrontAI::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 04:00: _FrontAI::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 04:00: _Admiral::NotifyTick for _USA used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Nepal used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Iran used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Lithuania used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Nicaragua used _-858993460 ticks.
+1936-00-00 04:00: _Admiral::NotifyTick for _New Zealand used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Mongolia used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Norway used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Panama used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _New Zealand used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Paraguay used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Colombia used _-858993460 ticks.
+1936-00-00 04:00: _FrontAI::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Oman used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Romania used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _South Africa used _-858993460 ticks.
+1936-00-00 04:00: _FrontAI::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _El Salvador used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Tibet used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Czechoslovakia used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Albania used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Saudi Arabia used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Uruguay used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Australia used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Yunnan used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Afghanistan used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Yemen used _-858993460 ticks.
+1936-00-00 04:00: _Admiral::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Yugoslavia used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Greece used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Austria used _-858993460 ticks.
+1936-00-00 04:00: _Admiral::NotifyTick for _Germany used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Belgium used _-858993460 ticks.
+1936-00-00 04:00: _Admiral::NotifyTick for _Canada used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Germany used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Dominican Republic used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Guatemala used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Haiti used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Denmark used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Turkey used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Siam used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Republican Spain used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Sinkiang used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Argentina used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Bolivia used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Communist China used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Bhutan used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Ecuador used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Guangxi Clique used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Iraq used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Liberia used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Mexico used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Estonia used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _United Kingdom used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Tannu Tuva used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Sweden used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Latvia used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Poland used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Peru used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Portugal used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _USA used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Ireland used _-858993460 ticks.
+1936-00-00 04:00: _Admiral::NotifyTick for _Australia used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Honduras used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Switzerland used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _France used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Soviet Union used _-858993460 ticks.
+1936-00-00 04:00: _AirMarshal::NotifyTick for _Venezuela used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Brazil used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Canada used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Hungary used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Bulgaria used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Chile used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Costa Rica used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Cuba used _-858993460 ticks.
+1936-00-00 05:00: _Admiral::NotifyTick for _United Kingdom used _-858993460 ticks.
+1936-00-00 05:00: _Admiral::NotifyTick for _Netherlands used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Nepal used _-858993460 ticks.
+1936-00-00 05:00: _Admiral::NotifyTick for _France used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Xibei San Ma used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Philippines used _-858993460 ticks.
+1936-00-00 05:00: _FrontAI::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Luxemburg used _-858993460 ticks.
+1936-00-00 05:00: _FrontAI::NotifyTick for _Communist China used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Iran used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Yunnan used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Nicaragua used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Lithuania used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Australia used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Colombia used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Mongolia used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Paraguay used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Norway used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _New Zealand used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Panama used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Uruguay used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _South Africa used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Romania used _-858993460 ticks.
+1936-00-00 05:00: _FrontAI::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Oman used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Saudi Arabia used _-858993460 ticks.
+1936-00-00 05:00: _FrontAI::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Albania used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Czechoslovakia used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _El Salvador used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Tibet used _-858993460 ticks.
+1936-00-00 05:00: _Admiral::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Venezuela used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Yemen used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Afghanistan used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Belgium used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Greece used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Yugoslavia used _-858993460 ticks.
+1936-00-00 05:00: _Admiral::NotifyTick for _Germany used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Austria used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _United Kingdom used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Ecuador used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Dominican Republic used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Germany used _-858993460 ticks.
+1936-00-00 05:00: _FrontAI::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Haiti used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Guatemala used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Turkey used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Denmark used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Bhutan used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Bolivia used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Sinkiang used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Siam used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Republican Spain used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Argentina used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Communist China used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Liberia used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Iraq used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Guangxi Clique used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Estonia used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Mexico used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Sweden used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Tannu Tuva used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Portugal used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Poland used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Latvia used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Peru used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _USA used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Ireland used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Switzerland used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Honduras used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _France used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Soviet Union used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Finland used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Netherlands used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Shanxi used _-858993460 ticks.
+1936-00-00 05:00: _Admiral::NotifyTick for _USA used _-858993460 ticks.
+1936-00-00 05:00: _AirMarshal::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Costa Rica used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Cuba used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Nepal used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Xibei San Ma used _-858993460 ticks.
+1936-00-00 06:00: _Admiral::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Philippines used _-858993460 ticks.
+1936-00-00 06:00: _FrontAI::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Luxemburg used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Iran used _-858993460 ticks.
+1936-00-00 06:00: _Admiral::NotifyTick for _New Zealand used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Colombia used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Yunnan used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Australia used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Nicaragua used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Lithuania used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Uruguay used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Panama used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Norway used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _New Zealand used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _South Africa used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Oman used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Romania used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Guangxi Clique used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Afghanistan used _-858993460 ticks.
+1936-00-00 06:00: _FrontAI::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 06:00: _Admiral::NotifyTick for _Canada used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Tibet used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Albania used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _El Salvador used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Czechoslovakia used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Yemen used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Venezuela used _-858993460 ticks.
+1936-00-00 06:00: _Admiral::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Iraq used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Greece used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Belgium used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Austria used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Yugoslavia used _-858993460 ticks.
+1936-00-00 06:00: _Admiral::NotifyTick for _Germany used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Ecuador used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _United Kingdom used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Denmark used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Guatemala used _-858993460 ticks.
+1936-00-00 06:00: _FrontAI::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Dominican Republic used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Germany used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Haiti used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Turkey used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Argentina used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Sinkiang used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Bolivia used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Bhutan used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Siam used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Republican Spain used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Liberia used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Communist China used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Shanxi used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Netherlands used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Finland used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Tannu Tuva used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Estonia used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Mexico used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Sweden used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _USA used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Poland used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Portugal used _-858993460 ticks.
+1936-00-00 06:00: _Admiral::NotifyTick for _Australia used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Latvia used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Peru used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Ireland used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Switzerland used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Honduras used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _France used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Soviet Union used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Brazil used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Canada used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Hungary used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Mongolia used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Saudi Arabia used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Paraguay used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Bulgaria used _-858993460 ticks.
+1936-00-00 06:00: _AirMarshal::NotifyTick for _Chile used _-858993460 ticks.
+1936-00-00 06:00: _Admiral::NotifyTick for _Netherlands used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Chile used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Bulgaria used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Costa Rica used _-858993460 ticks.
+1936-00-00 07:00: _Admiral::NotifyTick for _France used _-858993460 ticks.
+1936-00-00 07:00: _Admiral::NotifyTick for _USA used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Cuba used _-858993460 ticks.
+1936-00-00 07:00: _FrontAI::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Republican Spain used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Xibei San Ma used _-858993460 ticks.
+1936-00-00 07:00: _FrontAI::NotifyTick for _Communist China used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Nepal used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Norway used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Panama used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Luxemburg used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Philippines used _-858993460 ticks.
+1936-00-00 07:00: _Admiral::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Uruguay used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Colombia used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Iran used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Lithuania used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Yunnan used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Nicaragua used _-858993460 ticks.
+1936-00-00 07:00: _FrontAI::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Australia used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Siam used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Albania used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _South Africa used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _New Zealand used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Tibet used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Guangxi Clique used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Oman used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Romania used _-858993460 ticks.
+1936-00-00 07:00: _FrontAI::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Afghanistan used _-858993460 ticks.
+1936-00-00 07:00: _Admiral::NotifyTick for _Canada used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _United Kingdom used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _El Salvador used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Iraq used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Czechoslovakia used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Yemen used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Venezuela used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Belgium used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Greece used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Yugoslavia used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Austria used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Ecuador used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Bhutan used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Haiti used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Guatemala used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Denmark used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Dominican Republic used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Germany used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Bolivia used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Argentina used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Turkey used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Sinkiang used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Paraguay used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Saudi Arabia used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Mongolia used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Shanxi used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Liberia used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Communist China used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Finland used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Netherlands used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Estonia used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Tannu Tuva used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Sweden used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Mexico used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _USA used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Poland used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Ireland used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Peru used _-858993460 ticks.
+1936-00-00 07:00: _Admiral::NotifyTick for _Australia used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Portugal used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Latvia used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Honduras used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Switzerland used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Soviet Union used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _France used _-858993460 ticks.
+1936-00-00 07:00: _Admiral::NotifyTick for _Netherlands used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Hungary used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Canada used _-858993460 ticks.
+1936-00-00 07:00: _AirMarshal::NotifyTick for _Brazil used _-858993460 ticks.
+1936-00-00 07:00: _Admiral::NotifyTick for _United Kingdom used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Bolivia used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Chile used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Bulgaria used _-858993460 ticks.
+1936-00-00 08:00: _Admiral::NotifyTick for _France used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Costa Rica used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Cuba used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Colombia used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Xibei San Ma used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Republican Spain used _-858993460 ticks.
+1936-00-00 08:00: _FrontAI::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 08:00: _FrontAI::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Uruguay used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Nepal used _-858993460 ticks.
+1936-00-00 08:00: _Admiral::NotifyTick for _New Zealand used _-858993460 ticks.
+1936-00-00 08:00: _Admiral::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Panama used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Norway used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Philippines used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Luxemburg used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Dominican Republic used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Guangxi Clique used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Yunnan used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Iran used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Lithuania used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Tibet used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Australia used _-858993460 ticks.
+1936-00-00 08:00: _FrontAI::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Nicaragua used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _New Zealand used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _South Africa used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Siam used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Albania used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Yemen used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Oman used _-858993460 ticks.
+1936-00-00 08:00: _FrontAI::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Romania used _-858993460 ticks.
+1936-00-00 08:00: _Admiral::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Czechoslovakia used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _El Salvador used _-858993460 ticks.
+1936-00-00 08:00: _Admiral::NotifyTick for _Germany used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Afghanistan used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _United Kingdom used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Iraq used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Denmark used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Venezuela used _-858993460 ticks.
+1936-00-00 08:00: _FrontAI::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Yugoslavia used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Belgium used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Greece used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Guatemala used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Bhutan used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Ecuador used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Austria used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Haiti used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Liberia used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Paraguay used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Argentina used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Sinkiang used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Turkey used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Mongolia used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Saudi Arabia used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Shanxi used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Estonia used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Netherlands used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Communist China used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Finland used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _USA used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Mexico used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Tannu Tuva used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Sweden used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Peru used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Poland used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Ireland used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Honduras used _-858993460 ticks.
+1936-00-00 08:00: _Admiral::NotifyTick for _Australia used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Latvia used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Portugal used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Switzerland used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Soviet Union used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _France used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Brazil used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Canada used _-858993460 ticks.
+1936-00-00 08:00: _Admiral::NotifyTick for _Netherlands used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Hungary used _-858993460 ticks.
+1936-00-00 08:00: _AirMarshal::NotifyTick for _Germany used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Hungary used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Guatemala used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Chile used _-858993460 ticks.
+1936-00-00 09:00: _Admiral::NotifyTick for _USA used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Bolivia used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Bulgaria used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Greece used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Nepal used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Cuba used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Costa Rica used _-858993460 ticks.
+1936-00-00 09:00: _Admiral::NotifyTick for _France used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Uruguay used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 09:00: _FrontAI::NotifyTick for _Communist China used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Xibei San Ma used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Colombia used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Republican Spain used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Belgium used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Australia used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Norway used _-858993460 ticks.
+1936-00-00 09:00: _Admiral::NotifyTick for _New Zealand used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Panama used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Tibet used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Dominican Republic used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Philippines used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Luxemburg used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Lithuania used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Iran used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Guangxi Clique used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Yunnan used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Yugoslavia used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Siam used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _South Africa used _-858993460 ticks.
+1936-00-00 09:00: _FrontAI::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _New Zealand used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Nicaragua used _-858993460 ticks.
+1936-00-00 09:00: _Admiral::NotifyTick for _Canada used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Albania used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Oman used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Yemen used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Romania used _-858993460 ticks.
+1936-00-00 09:00: _FrontAI::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _United Kingdom used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _El Salvador used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Czechoslovakia used _-858993460 ticks.
+1936-00-00 09:00: _Admiral::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 09:00: _Admiral::NotifyTick for _Germany used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Afghanistan used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Venezuela used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Denmark used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Iraq used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Argentina used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Haiti used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Bhutan used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Austria used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Ecuador used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Paraguay used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Liberia used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Mexico used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Shanxi used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Saudi Arabia used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Turkey used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Sinkiang used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Mongolia used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _USA used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Communist China used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Estonia used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Netherlands used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Finland used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Tannu Tuva used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Sweden used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Peru used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Ireland used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Poland used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Honduras used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Portugal used _-858993460 ticks.
+1936-00-00 09:00: _Admiral::NotifyTick for _Australia used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Latvia used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Soviet Union used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Switzerland used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Germany used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Canada used _-858993460 ticks.
+1936-00-00 09:00: _Admiral::NotifyTick for _United Kingdom used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _France used _-858993460 ticks.
+1936-00-00 09:00: _AirMarshal::NotifyTick for _Brazil used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Brazil used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Venezuela used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Guatemala used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Chile used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Afghanistan used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Bolivia used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Bulgaria used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Nepal used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Greece used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Uruguay used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Costa Rica used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Cuba used _-858993460 ticks.
+1936-00-00 10:00: _Admiral::NotifyTick for _France used _-858993460 ticks.
+1936-00-00 10:00: _FrontAI::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 10:00: _FrontAI::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 10:00: _Admiral::NotifyTick for _Germany used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Dominican Republic used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Xibei San Ma used _-858993460 ticks.
+1936-00-00 10:00: _Admiral::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Tibet used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Belgium used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Colombia used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Republican Spain used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Panama used _-858993460 ticks.
+1936-00-00 10:00: _Admiral::NotifyTick for _New Zealand used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Australia used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Norway used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _New Zealand used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Iran used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Lithuania used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Luxemburg used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Philippines used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _South Africa used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Yunnan used _-858993460 ticks.
+1936-00-00 10:00: _FrontAI::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Guangxi Clique used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Siam used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Yugoslavia used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Yemen used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Nicaragua used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Oman used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Albania used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Czechoslovakia used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _United Kingdom used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Romania used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _El Salvador used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _France used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Denmark used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Iraq used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Bhutan used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Haiti used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Argentina used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Paraguay used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Ecuador used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Austria used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Sinkiang used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Mexico used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Liberia used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Turkey used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Shanxi used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Saudi Arabia used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Mongolia used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _USA used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Ireland used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Finland used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Communist China used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Estonia used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Netherlands used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Peru used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Sweden used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Tannu Tuva used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Poland used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Honduras used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Soviet Union used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Portugal used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Latvia used _-858993460 ticks.
+1936-00-00 10:00: _Admiral::NotifyTick for _Australia used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Canada used _-858993460 ticks.
+1936-00-00 10:00: _Admiral::NotifyTick for _Netherlands used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Hungary used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Switzerland used _-858993460 ticks.
+1936-00-00 10:00: _AirMarshal::NotifyTick for _Germany used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Germany used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Albania used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Brazil used _-858993460 ticks.
+1936-00-00 11:00: _Admiral::NotifyTick for _USA used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Venezuela used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Oman used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Chile used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Greece used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Nepal used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Bolivia used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Afghanistan used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Bulgaria used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Nicaragua used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Belgium used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Cuba used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Costa Rica used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Uruguay used _-858993460 ticks.
+1936-00-00 11:00: _FrontAI::NotifyTick for _Communist China used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Tibet used _-858993460 ticks.
+1936-00-00 11:00: _Admiral::NotifyTick for _France used _-858993460 ticks.
+1936-00-00 11:00: _FrontAI::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Dominican Republic used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Xibei San Ma used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Philippines used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Panama used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Republican Spain used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Colombia used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Luxemburg used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Lithuania used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Norway used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Australia used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Iran used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _New Zealand used _-858993460 ticks.
+1936-00-00 11:00: _FrontAI::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Guangxi Clique used _-858993460 ticks.
+1936-00-00 11:00: _Admiral::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 11:00: _FrontAI::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 11:00: _Admiral::NotifyTick for _Canada used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Yunnan used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _South Africa used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Yemen used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Yugoslavia used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Siam used _-858993460 ticks.
+1936-00-00 11:00: _FrontAI::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Switzerland used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _El Salvador used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Czechoslovakia used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Romania used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _United Kingdom used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Denmark used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _France used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Liberia used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Haiti used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Iraq used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Bhutan used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Mexico used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Austria used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Argentina used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Ecuador used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Paraguay used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Sinkiang used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Ireland used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Turkey used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Shanxi used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Saudi Arabia used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Mongolia used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _USA used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Communist China used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Finland used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Estonia used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Netherlands used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Portugal used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Tannu Tuva used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Peru used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Sweden used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Poland used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Soviet Union used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Honduras used _-858993460 ticks.
+1936-00-00 11:00: _Admiral::NotifyTick for _United Kingdom used _-858993460 ticks.
+1936-00-00 11:00: _Admiral::NotifyTick for _Australia used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Latvia used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Canada used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Hungary used _-858993460 ticks.
+1936-00-00 11:00: _AirMarshal::NotifyTick for _Guatemala used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Guatemala used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Yemen used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _South Africa used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Venezuela used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Brazil used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Yunnan used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Afghanistan used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Bolivia used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Oman used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Nepal used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Chile used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Greece used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 12:00: _Admiral::NotifyTick for _Canada used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Bulgaria used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Uruguay used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Nicaragua used _-858993460 ticks.
+1936-00-00 12:00: _Admiral::NotifyTick for _Germany used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 12:00: _FrontAI::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Costa Rica used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Cuba used _-858993460 ticks.
+1936-00-00 12:00: _Admiral::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Belgium used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Colombia used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Tibet used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Republican Spain used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Xibei San Ma used _-858993460 ticks.
+1936-00-00 12:00: _Admiral::NotifyTick for _New Zealand used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Dominican Republic used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Panama used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Philippines used _-858993460 ticks.
+1936-00-00 12:00: _Admiral::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _New Zealand used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Lithuania used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Luxemburg used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Norway used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Iran used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Australia used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Guangxi Clique used _-858993460 ticks.
+1936-00-00 12:00: _FrontAI::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Hungary used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Poland used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Czechoslovakia used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Yugoslavia used _-858993460 ticks.
+1936-00-00 12:00: _FrontAI::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Siam used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _El Salvador used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Switzerland used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Argentina used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _France used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _United Kingdom used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Romania used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Denmark used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Liberia used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Iraq used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Haiti used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Austria used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Bhutan used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Mexico used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Ireland used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Ecuador used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Sinkiang used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Paraguay used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _USA used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Shanxi used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Turkey used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Mongolia used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Saudi Arabia used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Portugal used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Finland used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Communist China used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Netherlands used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Estonia used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Tannu Tuva used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Sweden used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Peru used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Canada used _-858993460 ticks.
+1936-00-00 12:00: _Admiral::NotifyTick for _Netherlands used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Soviet Union used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Honduras used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Latvia used _-858993460 ticks.
+1936-00-00 12:00: _Admiral::NotifyTick for _United Kingdom used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Germany used _-858993460 ticks.
+1936-00-00 12:00: _AirMarshal::NotifyTick for _Albania used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Albania used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Germany used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Australia used _-858993460 ticks.
+1936-00-00 13:00: _Admiral::NotifyTick for _USA used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Iran used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Bolivia used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Venezuela used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _South Africa used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Yemen used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Afghanistan used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Brazil used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Yunnan used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Norway used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Nicaragua used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Chile used _-858993460 ticks.
+1936-00-00 13:00: _FrontAI::NotifyTick for _Communist China used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Nepal used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Oman used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Uruguay used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Greece used _-858993460 ticks.
+1936-00-00 13:00: _Admiral::NotifyTick for _Canada used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Bulgaria used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Tibet used _-858993460 ticks.
+1936-00-00 13:00: _FrontAI::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 13:00: _Admiral::NotifyTick for _France used _-858993460 ticks.
+1936-00-00 13:00: _FrontAI::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Belgium used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Costa Rica used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Cuba used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Colombia used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Philippines used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Xibei San Ma used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Republican Spain used _-858993460 ticks.
+1936-00-00 13:00: _Admiral::NotifyTick for _New Zealand used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Panama used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Dominican Republic used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Luxemburg used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _New Zealand used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Lithuania used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Tannu Tuva used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Yugoslavia used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Guangxi Clique used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Hungary used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Czechoslovakia used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Poland used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Siam used _-858993460 ticks.
+1936-00-00 13:00: _FrontAI::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Switzerland used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _El Salvador used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Liberia used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Romania used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Argentina used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _United Kingdom used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _France used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Denmark used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _USA used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Ireland used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Bhutan used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Iraq used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Austria used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Haiti used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Mexico used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Paraguay used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Sinkiang used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Ecuador used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Turkey used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Shanxi used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Saudi Arabia used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Mongolia used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Netherlands used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Communist China used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Portugal used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Finland used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Estonia used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Sweden used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Canada used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Peru used _-858993460 ticks.
+1936-00-00 13:00: _Admiral::NotifyTick for _Netherlands used _-858993460 ticks.
+1936-00-00 13:00: _Admiral::NotifyTick for _Australia used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Soviet Union used _-858993460 ticks.
+1936-00-00 13:00: _Admiral::NotifyTick for _United Kingdom used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Latvia used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Honduras used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Guatemala used _-858993460 ticks.
+1936-00-00 13:00: _AirMarshal::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Albania used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Guatemala used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Dominican Republic used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Germany used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Panama used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Australia used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Brazil used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Bolivia used _-858993460 ticks.
+1936-00-00 14:00: _Admiral::NotifyTick for _USA used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Iran used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Afghanistan used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _South Africa used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Venezuela used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Yemen used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Oman used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Yunnan used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Nepal used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Norway used _-858993460 ticks.
+1936-00-00 14:00: _FrontAI::NotifyTick for _Communist China used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Nicaragua used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Chile used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Greece used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Uruguay used _-858993460 ticks.
+1936-00-00 14:00: _Admiral::NotifyTick for _Germany used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Tibet used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Bulgaria used _-858993460 ticks.
+1936-00-00 14:00: _FrontAI::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 14:00: _Admiral::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Republican Spain used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Cuba used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Costa Rica used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Belgium used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Xibei San Ma used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Colombia used _-858993460 ticks.
+1936-00-00 14:00: _Admiral::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Philippines used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Honduras used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Latvia used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Communist China used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Luxemburg used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _New Zealand used _-858993460 ticks.
+1936-00-00 14:00: _FrontAI::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Yugoslavia used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Lithuania used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Tannu Tuva used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Guangxi Clique used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Argentina used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Siam used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Czechoslovakia used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Poland used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Romania used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Switzerland used _-858993460 ticks.
+1936-00-00 14:00: _FrontAI::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Liberia used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _El Salvador used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Netherlands used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Bhutan used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Denmark used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _United Kingdom used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _France used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Ireland used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _USA used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Iraq used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Haiti used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Austria used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Mexico used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Ecuador used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Sinkiang used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Paraguay used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Turkey used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Shanxi used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Saudi Arabia used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Mongolia used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Soviet Union used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Portugal used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Finland used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Estonia used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Canada used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Sweden used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Peru used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Hungary used _-858993460 ticks.
+1936-00-00 14:00: _AirMarshal::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Xibei San Ma used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Belgium used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Bolivia used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Brazil used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Germany used _-858993460 ticks.
+1936-00-00 15:00: _Admiral::NotifyTick for _New Zealand used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Panama used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Australia used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Costa Rica used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Yunnan used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Iran used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Afghanistan used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Oman used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Yemen used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _South Africa used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Venezuela used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Norway used _-858993460 ticks.
+1936-00-00 15:00: _Admiral::NotifyTick for _Canada used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Nepal used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Uruguay used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Nicaragua used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Chile used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Greece used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Bulgaria used _-858993460 ticks.
+1936-00-00 15:00: _FrontAI::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 15:00: _FrontAI::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 15:00: _Admiral::NotifyTick for _France used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Tibet used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Hungary used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Czechoslovakia used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Luxemburg used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Philippines used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Colombia used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Latvia used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Honduras used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Communist China used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Siam used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Yugoslavia used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _New Zealand used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Argentina used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Tannu Tuva used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Lithuania used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Guangxi Clique used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Denmark used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Romania used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Poland used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Bhutan used _-858993460 ticks.
+1936-00-00 15:00: _FrontAI::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Switzerland used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Netherlands used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Liberia used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _El Salvador used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _France used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _United Kingdom used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Ireland used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _USA used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Austria used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Haiti used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Iraq used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Mexico used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Sinkiang used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Ecuador used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Paraguay used _-858993460 ticks.
+1936-00-00 15:00: _Admiral::NotifyTick for _United Kingdom used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Turkey used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Saudi Arabia used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Shanxi used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Soviet Union used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Mongolia used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Portugal used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Finland used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Estonia used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Canada used _-858993460 ticks.
+1936-00-00 15:00: _Admiral::NotifyTick for _Netherlands used _-858993460 ticks.
+1936-00-00 15:00: _Admiral::NotifyTick for _Australia used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Sweden used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Peru used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Albania used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Guatemala used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Dominican Republic used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Republican Spain used _-858993460 ticks.
+1936-00-00 15:00: _AirMarshal::NotifyTick for _Cuba used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Republican Spain used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Tibet used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Brazil used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Bolivia used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Xibei San Ma used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Belgium used _-858993460 ticks.
+1936-00-00 16:00: _FrontAI::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Yunnan used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Germany used _-858993460 ticks.
+1936-00-00 16:00: _Admiral::NotifyTick for _USA used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Costa Rica used _-858993460 ticks.
+1936-00-00 16:00: _Admiral::NotifyTick for _New Zealand used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Australia used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Panama used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Norway used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Iran used _-858993460 ticks.
+1936-00-00 16:00: _FrontAI::NotifyTick for _Communist China used _-858993460 ticks.
+1936-00-00 16:00: _Admiral::NotifyTick for _Germany used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _South Africa used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Afghanistan used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Yemen used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Oman used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Venezuela used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Bulgaria used _-858993460 ticks.
+1936-00-00 16:00: _Admiral::NotifyTick for _Canada used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Nicaragua used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Nepal used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Uruguay used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Greece used _-858993460 ticks.
+1936-00-00 16:00: _Admiral::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 16:00: _FrontAI::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Chile used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Dominican Republic used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Guatemala used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Philippines used _-858993460 ticks.
+1936-00-00 16:00: _Admiral::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Luxemburg used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Hungary used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Czechoslovakia used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Tannu Tuva used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Colombia used _-858993460 ticks.
+1936-00-00 16:00: _FrontAI::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Argentina used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Honduras used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Latvia used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _New Zealand used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Communist China used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Yugoslavia used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Siam used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Sinkiang used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Denmark used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Lithuania used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Guangxi Clique used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _El Salvador used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Romania used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Poland used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Liberia used _-858993460 ticks.
+1936-00-00 16:00: _FrontAI::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Bhutan used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Netherlands used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Switzerland used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _France used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _United Kingdom used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Ireland used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _USA used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Haiti used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Austria used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Iraq used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Mexico used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Albania used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Ecuador used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Paraguay used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Shanxi used _-858993460 ticks.
+1936-00-00 16:00: _Admiral::NotifyTick for _United Kingdom used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Turkey used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Saudi Arabia used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Sweden used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Mongolia used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Portugal used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Estonia used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Finland used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Canada used _-858993460 ticks.
+1936-00-00 16:00: _Admiral::NotifyTick for _Netherlands used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Peru used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Cuba used _-858993460 ticks.
+1936-00-00 16:00: _AirMarshal::NotifyTick for _Soviet Union used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Cuba used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Greece used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Uruguay used _-858993460 ticks.
+1936-00-00 17:00: _Admiral::NotifyTick for _France used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Tibet used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Republican Spain used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Nepal used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Brazil used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Bolivia used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Xibei San Ma used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Yunnan used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Belgium used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Nicaragua used _-858993460 ticks.
+1936-00-00 17:00: _FrontAI::NotifyTick for _Communist China used _-858993460 ticks.
+1936-00-00 17:00: _FrontAI::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Iran used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Panama used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Australia used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Norway used _-858993460 ticks.
+1936-00-00 17:00: _Admiral::NotifyTick for _Canada used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Afghanistan used _-858993460 ticks.
+1936-00-00 17:00: _Admiral::NotifyTick for _Germany used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _South Africa used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Venezuela used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Oman used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Yemen used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Bulgaria used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Peru used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Austria used _-858993460 ticks.
+1936-00-00 17:00: _FrontAI::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 17:00: _Admiral::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Guatemala used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Dominican Republic used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Chile used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Philippines used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Luxemburg used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Argentina used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Czechoslovakia used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Hungary used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Tannu Tuva used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Colombia used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _El Salvador used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Denmark used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _New Zealand used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Honduras used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Latvia used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Communist China used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Sinkiang used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Yugoslavia used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Siam used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Lithuania used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Guangxi Clique used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Haiti used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Poland used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Romania used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Switzerland used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Bhutan used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Liberia used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Netherlands used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _United Kingdom used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _France used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Ireland used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _USA used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Soviet Union used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Estonia used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Mexico used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Iraq used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Albania used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Ecuador used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Paraguay used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Portugal used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Sweden used _-858993460 ticks.
+1936-00-00 17:00: _Admiral::NotifyTick for _United Kingdom used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Shanxi used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Turkey used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Saudi Arabia used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Mongolia used _-858993460 ticks.
+1936-00-00 17:00: _Admiral::NotifyTick for _Australia used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Finland used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Canada used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Germany used _-858993460 ticks.
+1936-00-00 17:00: _AirMarshal::NotifyTick for _Costa Rica used _-858993460 ticks.
+1936-00-00 17:00: _Admiral::NotifyTick for _New Zealand used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Costa Rica used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Germany used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Greece used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Cuba used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _South Africa used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Republican Spain used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Tibet used _-858993460 ticks.
+1936-00-00 18:00: _Admiral::NotifyTick for _France used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Bolivia used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Nepal used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Brazil used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 18:00: _FrontAI::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Afghanistan used _-858993460 ticks.
+1936-00-00 18:00: _Admiral::NotifyTick for _USA used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Belgium used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Xibei San Ma used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Yunnan used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Australia used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Nicaragua used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Panama used _-858993460 ticks.
+1936-00-00 18:00: _FrontAI::NotifyTick for _Communist China used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Iran used _-858993460 ticks.
+1936-00-00 18:00: _FrontAI::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Norway used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Canada used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _United Kingdom used _-858993460 ticks.
+1936-00-00 18:00: _FrontAI::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Yemen used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Oman used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Venezuela used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Bulgaria used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Austria used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Peru used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Argentina used _-858993460 ticks.
+1936-00-00 18:00: _Admiral::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Philippines used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Chile used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Guatemala used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Dominican Republic used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Luxemburg used _-858993460 ticks.
+1936-00-00 18:00: _FrontAI::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Denmark used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Hungary used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Czechoslovakia used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _El Salvador used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Tannu Tuva used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Colombia used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Siam used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Latvia used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _New Zealand used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Honduras used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Yugoslavia used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Sinkiang used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Communist China used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Guangxi Clique used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Lithuania used _-858993460 ticks.
+1936-00-00 18:00: _FrontAI::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Haiti used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Poland used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Switzerland used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Romania used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Netherlands used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Bhutan used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Liberia used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Shanxi used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Iraq used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _USA used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _France used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Ireland used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Mexico used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Soviet Union used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Estonia used _-858993460 ticks.
+1936-00-00 18:00: _Admiral::NotifyTick for _United Kingdom used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Portugal used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Albania used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Ecuador used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Paraguay used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Sweden used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Finland used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Turkey used _-858993460 ticks.
+1936-00-00 18:00: _Admiral::NotifyTick for _Netherlands used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Saudi Arabia used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Mongolia used _-858993460 ticks.
+1936-00-00 18:00: _Admiral::NotifyTick for _Australia used _-858993460 ticks.
+1936-00-00 18:00: _Admiral::NotifyTick for _New Zealand used _-858993460 ticks.
+1936-00-00 18:00: _AirMarshal::NotifyTick for _Uruguay used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Uruguay used _-858993460 ticks.
+1936-00-00 19:00: _FrontAI::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Iran used _-858993460 ticks.
+1936-00-00 19:00: _FrontAI::NotifyTick for _Communist China used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Cuba used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Greece used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Panama used _-858993460 ticks.
+1936-00-00 19:00: _Admiral::NotifyTick for _Germany used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Republican Spain used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _South Africa used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Nicaragua used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Brazil used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Tibet used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Nepal used _-858993460 ticks.
+1936-00-00 19:00: _Admiral::NotifyTick for _France used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Bolivia used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Australia used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Afghanistan used _-858993460 ticks.
+1936-00-00 19:00: _FrontAI::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Yunnan used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Xibei San Ma used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Belgium used _-858993460 ticks.
+1936-00-00 19:00: _Admiral::NotifyTick for _Canada used _-858993460 ticks.
+1936-00-00 19:00: _Admiral::NotifyTick for _New Zealand used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Norway used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Yemen used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Canada used _-858993460 ticks.
+1936-00-00 19:00: _FrontAI::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _United Kingdom used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Philippines used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Venezuela used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Oman used _-858993460 ticks.
+1936-00-00 19:00: _Admiral::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Bulgaria used _-858993460 ticks.
+1936-00-00 19:00: _Admiral::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Peru used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Austria used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Argentina used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Haiti used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Colombia used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Denmark used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Luxemburg used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Chile used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Dominican Republic used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Guatemala used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Hungary used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _El Salvador used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Czechoslovakia used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Tannu Tuva used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _New Zealand used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Latvia used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Siam used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Yugoslavia used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Honduras used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Guangxi Clique used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Sinkiang used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Communist China used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Lithuania used _-858993460 ticks.
+1936-00-00 19:00: _Admiral::NotifyTick for _Australia used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Soviet Union used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _France used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Netherlands used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Poland used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Romania used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Switzerland used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _USA used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Bhutan used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Liberia used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Iraq used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Shanxi used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Ireland used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Mexico used _-858993460 ticks.
+1936-00-00 19:00: _Admiral::NotifyTick for _United Kingdom used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Estonia used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Albania used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Portugal used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Mongolia used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Paraguay used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Ecuador used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Sweden used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Saudi Arabia used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Finland used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Turkey used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Costa Rica used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Germany used _-858993460 ticks.
+1936-00-00 19:00: _AirMarshal::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 19:00: _Admiral::NotifyTick for _USA used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Germany used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Yunnan used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Afghanistan used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Greece used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Cuba used _-858993460 ticks.
+1936-00-00 20:00: _FrontAI::NotifyTick for _Communist China used _-858993460 ticks.
+1936-00-00 20:00: _FrontAI::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Iran used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Republican Spain used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Panama used _-858993460 ticks.
+1936-00-00 20:00: _Admiral::NotifyTick for _Germany used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Australia used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Tibet used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Brazil used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Nicaragua used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _South Africa used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Bolivia used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Nepal used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Costa Rica used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Belgium used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Xibei San Ma used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 20:00: _Admiral::NotifyTick for _Canada used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Norway used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Yemen used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Canada used _-858993460 ticks.
+1936-00-00 20:00: _Admiral::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Philippines used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _United Kingdom used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Oman used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Venezuela used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Sinkiang used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Colombia used _-858993460 ticks.
+1936-00-00 20:00: _Admiral::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Bulgaria used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Haiti used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Peru used _-858993460 ticks.
+1936-00-00 20:00: _FrontAI::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Argentina used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Austria used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Chile used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Denmark used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Luxemburg used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Guatemala used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Dominican Republic used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Guangxi Clique used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _El Salvador used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Hungary used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Tannu Tuva used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Czechoslovakia used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Honduras used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Latvia used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _New Zealand used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Yugoslavia used _-858993460 ticks.
+1936-00-00 20:00: _FrontAI::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Siam used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Bhutan used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Netherlands used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Communist China used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Lithuania used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Soviet Union used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Poland used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Romania used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _USA used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Switzerland used _-858993460 ticks.
+1936-00-00 20:00: _Admiral::NotifyTick for _United Kingdom used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Iraq used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Liberia used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Mexico used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Shanxi used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Ireland used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Estonia used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Albania used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Portugal used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Sweden used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Paraguay used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Mongolia used _-858993460 ticks.
+1936-00-00 20:00: _Admiral::NotifyTick for _Netherlands used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Ecuador used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Turkey used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Finland used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Saudi Arabia used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Uruguay used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _France used _-858993460 ticks.
+1936-00-00 20:00: _AirMarshal::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _France used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Nicaragua used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Brazil used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Tibet used _-858993460 ticks.
+1936-00-00 21:00: _FrontAI::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Australia used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Yunnan used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Cuba used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Afghanistan used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Iran used _-858993460 ticks.
+1936-00-00 21:00: _FrontAI::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Panama used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Republican Spain used _-858993460 ticks.
+1936-00-00 21:00: _Admiral::NotifyTick for _France used _-858993460 ticks.
+1936-00-00 21:00: _Admiral::NotifyTick for _Netherlands used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Uruguay used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Bolivia used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _South Africa used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Nepal used _-858993460 ticks.
+1936-00-00 21:00: _Admiral::NotifyTick for _New Zealand used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Costa Rica used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Xibei San Ma used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Belgium used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 21:00: _Admiral::NotifyTick for _Canada used _-858993460 ticks.
+1936-00-00 21:00: _FrontAI::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Norway used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Czechoslovakia used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Colombia used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Yemen used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Canada used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _United Kingdom used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Philippines used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Sinkiang used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Oman used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Venezuela used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Austria used _-858993460 ticks.
+1936-00-00 21:00: _Admiral::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Bulgaria used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Argentina used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Haiti used _-858993460 ticks.
+1936-00-00 21:00: _FrontAI::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Peru used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Tannu Tuva used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Guatemala used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Denmark used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Luxemburg used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _El Salvador used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Dominican Republic used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Guangxi Clique used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Hungary used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Saudi Arabia used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Lithuania used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Bhutan used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Yugoslavia used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _New Zealand used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Honduras used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Latvia used _-858993460 ticks.
+1936-00-00 21:00: _FrontAI::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 21:00: _Admiral::NotifyTick for _Australia used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Siam used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Netherlands used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Communist China used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Shanxi used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Soviet Union used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Switzerland used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _USA used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Poland used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Romania used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Iraq used _-858993460 ticks.
+1936-00-00 21:00: _Admiral::NotifyTick for _United Kingdom used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Mexico used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Liberia used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Sweden used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Ireland used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Estonia used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Portugal used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Albania used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Finland used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Ecuador used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Mongolia used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Paraguay used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Turkey used _-858993460 ticks.
+1936-00-00 21:00: _Admiral::NotifyTick for _USA used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Chile used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Greece used _-858993460 ticks.
+1936-00-00 21:00: _AirMarshal::NotifyTick for _Germany used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _France used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Greece used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Chile used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Nicaragua used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Iran used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Brazil used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Tibet used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Yunnan used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Australia used _-858993460 ticks.
+1936-00-00 22:00: _FrontAI::NotifyTick for _Communist China used _-858993460 ticks.
+1936-00-00 22:00: _Admiral::NotifyTick for _Germany used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Cuba used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Afghanistan used _-858993460 ticks.
+1936-00-00 22:00: _Admiral::NotifyTick for _USA used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Turkey used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Dominican Republic used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Panama used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Republican Spain used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Uruguay used _-858993460 ticks.
+1936-00-00 22:00: _Admiral::NotifyTick for _Netherlands used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _South Africa used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Bolivia used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Belgium used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Nepal used _-858993460 ticks.
+1936-00-00 22:00: _Admiral::NotifyTick for _New Zealand used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Xibei San Ma used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Costa Rica used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Venezuela used _-858993460 ticks.
+1936-00-00 22:00: _Admiral::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Czechoslovakia used _-858993460 ticks.
+1936-00-00 22:00: _FrontAI::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Norway used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Oman used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Canada used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Colombia used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Yemen used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Sinkiang used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Philippines used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _United Kingdom used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _El Salvador used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Bulgaria used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Austria used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Peru used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Haiti used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Argentina used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Luxemburg used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Guatemala used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Tannu Tuva used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Denmark used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Bhutan used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Guangxi Clique used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Hungary used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Lithuania used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Saudi Arabia used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _New Zealand used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Yugoslavia used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Latvia used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Honduras used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Shanxi used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Siam used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Communist China used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Netherlands used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Soviet Union used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Switzerland used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Portugal used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Sweden used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Liberia used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Estonia used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Germany used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Ireland used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Albania used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Mongolia used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Finland used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Ecuador used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Paraguay used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _USA used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Poland used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Romania used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Iraq used _-858993460 ticks.
+1936-00-00 22:00: _Admiral::NotifyTick for _United Kingdom used _-858993460 ticks.
+1936-00-00 22:00: _AirMarshal::NotifyTick for _Mexico used _-858993460 ticks.
+1936-00-00 23:00: _Admiral::NotifyTick for _United Kingdom used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Iraq used _-858993460 ticks.
+1936-00-00 23:00: _FrontAI::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Australia used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Yunnan used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Chile used _-858993460 ticks.
+1936-00-00 23:00: _FrontAI::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Nicaragua used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Tibet used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Iran used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Brazil used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Romania used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Poland used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Mongolia used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Haiti used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Cuba used _-858993460 ticks.
+1936-00-00 23:00: _Admiral::NotifyTick for _Germany used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Dominican Republic used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Afghanistan used _-858993460 ticks.
+1936-00-00 23:00: _Admiral::NotifyTick for _France used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Turkey used _-858993460 ticks.
+1936-00-00 23:00: _Admiral::NotifyTick for _USA used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Belgium used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Uruguay used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Panama used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Republican Spain used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Bolivia used _-858993460 ticks.
+1936-00-00 23:00: _Admiral::NotifyTick for _Netherlands used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _South Africa used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Peru used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Norway used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Venezuela used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Nepal used _-858993460 ticks.
+1936-00-00 23:00: _Admiral::NotifyTick for _Canada used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Xibei San Ma used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Costa Rica used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 23:00: _Admiral::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Czechoslovakia used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Colombia used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Oman used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Canada used _-858993460 ticks.
+1936-00-00 23:00: _Admiral::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Sinkiang used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Yemen used _-858993460 ticks.
+1936-00-00 23:00: _FrontAI::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Austria used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _United Kingdom used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Philippines used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Bulgaria used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _El Salvador used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Communist China used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Bhutan used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Luxemburg used _-858993460 ticks.
+1936-00-00 23:00: _FrontAI::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Argentina used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Tannu Tuva used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Guatemala used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Denmark used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Lithuania used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Hungary used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Guangxi Clique used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Latvia used _-858993460 ticks.
+1936-00-00 23:00: _Admiral::NotifyTick for _Australia used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Saudi Arabia used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Yugoslavia used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _New Zealand used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Siam used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Shanxi used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Honduras used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Netherlands used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Switzerland used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Soviet Union used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Sweden used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Portugal used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Estonia used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Liberia used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Germany used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Ireland used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Albania used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Mexico used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _USA used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Paraguay used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Ecuador used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Finland used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _France used _-858993460 ticks.
+1936-00-00 23:00: _AirMarshal::NotifyTick for _Greece used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _France used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Greece used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Afghanistan used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Afghanistan used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Albania used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Albania used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Argentina used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Argentina used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Australia used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Australia used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Austria used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Austria used _-858993460 ticks.
+1936-00-01 00:00: _FereignMinisterAI::NotifyTick for _Belgium used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Belgium used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Belgium used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Bhutan used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Bhutan used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Bolivia used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Bolivia used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Brazil used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Brazil used _-858993460 ticks.
+1936-00-01 00:00: _FereignMinisterAI::NotifyTick for _Bulgaria used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Bulgaria used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Bulgaria used _-858993460 ticks.
+1936-00-01 00:00: _FereignMinisterAI::NotifyTick for _Canada used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Canada used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Canada used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Communist China used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Communist China used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Chile used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Chile used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Colombia used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Colombia used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Costa Rica used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Costa Rica used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Cuba used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Cuba used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Czechoslovakia used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Czechoslovakia used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Denmark used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Denmark used _-858993460 ticks.
+1936-00-01 00:00: _FereignMinisterAI::NotifyTick for _Dominican Republic used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Dominican Republic used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Dominican Republic used _-858993460 ticks.
+1936-00-01 00:00: _FereignMinisterAI::NotifyTick for _Ecuador used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Ecuador used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Ecuador used _-858993460 ticks.
+1936-00-01 00:00: _FereignMinisterAI::NotifyTick for _United Kingdom used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _United Kingdom used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _United Kingdom used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Estonia used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Estonia used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Finland used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Finland used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _France used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _France used _-858993460 ticks.
+1936-00-01 00:00: _FereignMinisterAI::NotifyTick for _Germany used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Germany used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Germany used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Greece used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Greece used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Guatemala used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Guatemala used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Haiti used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Haiti used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Netherlands used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Netherlands used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Honduras used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Honduras used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Hungary used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Hungary used _-858993460 ticks.
+1936-00-01 00:00: _FereignMinisterAI::NotifyTick for _Ireland used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Ireland used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Ireland used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Iraq used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Iraq used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Latvia used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Latvia used _-858993460 ticks.
+1936-00-01 00:00: _FereignMinisterAI::NotifyTick for _Liberia used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Liberia used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Liberia used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Lithuania used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Lithuania used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Luxemburg used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Luxemburg used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Manchukuo used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Manchukuo used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Finland used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Mexico used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Mexico used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Mongolia used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Mongolia used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Nepal used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Nepal used _-858993460 ticks.
+1936-00-01 00:00: _FereignMinisterAI::NotifyTick for _Nicaragua used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Nicaragua used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Nicaragua used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Norway used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Norway used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _New Zealand used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _New Zealand used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Oman used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Oman used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Panama used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Panama used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Paraguay used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Paraguay used _-858993460 ticks.
+1936-00-01 00:00: _FereignMinisterAI::NotifyTick for _Iran used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Iran used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Iran used _-858993460 ticks.
+1936-00-01 00:00: _FereignMinisterAI::NotifyTick for _Philippines used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Philippines used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Philippines used _-858993460 ticks.
+1936-00-01 00:00: _FereignMinisterAI::NotifyTick for _Poland used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Poland used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Poland used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Portugal used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Portugal used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Peru used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Peru used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Romania used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Romania used _-858993460 ticks.
+1936-00-01 00:00: _FereignMinisterAI::NotifyTick for _South Africa used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _South Africa used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _South Africa used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _El Salvador used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _El Salvador used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Saudi Arabia used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Saudi Arabia used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Switzerland used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Switzerland used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Siam used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Siam used _-858993460 ticks.
+1936-00-01 00:00: _FereignMinisterAI::NotifyTick for _Soviet Union used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Soviet Union used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Soviet Union used _-858993460 ticks.
+1936-00-01 00:00: _FereignMinisterAI::NotifyTick for _Republican Spain used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Republican Spain used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Republican Spain used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Sweden used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Sweden used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Tannu Tuva used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Tannu Tuva used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Tibet used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Tibet used _-858993460 ticks.
+1936-00-01 00:00: _FereignMinisterAI::NotifyTick for _Turkey used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Turkey used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Turkey used _-858993460 ticks.
+1936-00-01 00:00: _FereignMinisterAI::NotifyTick for _Uruguay used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Uruguay used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Uruguay used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _USA used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _USA used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Venezuela used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Venezuela used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Yemen used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Yemen used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Iran used _-858993460 ticks.
+1936-00-01 00:00: _FereignMinisterAI::NotifyTick for _Yugoslavia used _-858993460 ticks.
+1936-00-01 00:00: _ArmamentAI::NotifyTick for _Yugoslavia used _-858993460 ticks.
+1936-00-01 00:00: _GarrisonAI::NotifyTick for _Yugoslavia used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Iraq used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Tibet used _-858993460 ticks.
+1936-00-01 00:00: _FrontAI::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Chile used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Australia used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Nicaragua used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Ecuador used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Yemen used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Uruguay used _-858993460 ticks.
+1936-00-01 00:00: _FrontAI::NotifyTick for _Communist China used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Romania used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Brazil used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Haiti used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Mongolia used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Poland used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Cuba used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Dominican Republic used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Afghanistan used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Turkey used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Belgium used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Norway used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Republican Spain used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Panama used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Peru used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Bolivia used _-858993460 ticks.
+1936-00-01 00:00: _Admiral::NotifyTick for _New Zealand used _-858993460 ticks.
+1936-00-01 00:00: _Admiral::NotifyTick for _Netherlands used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _South Africa used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Costa Rica used _-858993460 ticks.
+1936-00-01 00:00: _Admiral::NotifyTick for _Canada used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Venezuela used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Nepal used _-858993460 ticks.
+1936-00-01 00:00: _FrontAI::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Republic of China used _-858993460 ticks.
+1936-00-01 00:00: _Admiral::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Czechoslovakia used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Colombia used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Canada used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Oman used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Yugoslavia used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Tannu Tuva used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _United Kingdom used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Austria used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Communist China used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Bulgaria used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Philippines used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _El Salvador used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Italy used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Bhutan used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Luxemburg used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Argentina used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Guatemala used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Denmark used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Lithuania used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Hungary used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Latvia used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Saudi Arabia used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Ireland used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Netherlands used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Siam used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _New Zealand used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Honduras used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Germany used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Ethiopia used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Sweden used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Switzerland used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Soviet Union used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Portugal used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Liberia used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Estonia used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Paraguay used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _USA used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Albania used _-858993460 ticks.
+1936-00-01 00:00: _AirMarshal::NotifyTick for _Mexico used _-858993460 ticks.

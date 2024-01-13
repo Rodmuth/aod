@@ -1,0 +1,44 @@
+AI:
+
+- Thailand AI HQ build event will now check if Siam exists, so it wont build a secondary HQ if it has the Siamese one inherited.
+- Republic of Australia, Axis New Zealand, Indochina and Indonesia have got a more militia-eng heavy build, so they get troops faster to occupy their beaches.
+- Many AIs now build their single HQ with a brigade that is more appropriate to their teching priorities or situation, rather than always artillery.
+- Several minor optimizations to various AIs build schemes and events.
+
+Map/Scenario:
+- Small optimization to some minor nations starting infrastructure/naval brigade serials.
+- USSR infrastructure revisited slightly, "high" infra lines lead from Moscow to Leningrad and Minsk, but infrastructure reduced in numerous less important areas in Western USSR.
+
+Db changes:
+- Nauru removed from Republic of Australia cores for consistency as Papua New Guinea is not their core either.
+- Liberated Venezuela now has cores over all of its normal territory.
+- New Holland nation, representing Axis occupation of the area.
+- Gave China-Nanjing, Northern China and Chinese State their historical and far too long names.
+- The ministers that give HQ construction bonuses now give -10% instead of -5%.
+- Old admiral/general/air marshal Head of State trait made slightly better.
+- Rebasing air forces is slightly less costly in terms of organization.
+- Some new minister choices for USA, UK and USSR.
+- Some minister traits changed for JAP ministers.
+
+Events:
+- Declaration of Non-Belligerance no longer triggers for Nationalist Spain if its in war or in a major alliance.
+- Anglo-Soviet invasion of Iran no longer triggers if Iran doesent exist or if its a puppet state.
+- Spirit of Winter War/Enemy adapts events for Finland now have a local flag trigger, so the Enemy adapts event wont fire and weaken the troops for an annexed and then released Finland that enjoy none of the bonuses.
+- Surrender of Denmark reverted closer to its vanilla form to ensure it works in multiplayer.
+- Small errors in couple dam related events fixed.
+- Event disbanding the Dutch army now happens regardless of Belgium being already in German hands.
+- USA gearings reworked so that they no longer give any kind of slider moves, apart from the final fourth one, which maxes out their hawk lobby in one go. Should slow down early USA preparations until the final one hits heavily.
+- USA no longer receives free hawk lobby moves from events other than the 4th Gearing event.
+- USA shift towards interventionism now only happens gradually through the various historical events that trigger after war has erupted. For example the oil embargo on Japan, Arsenal of Democracy event, Destroyers for Bases, Lend-Lease etc.
+- Pearl Harbor no longer gives any bonuses/slider moves to USA apart from -10 dissent.
+- Events where Japan liberates the various puppets in China is reworked to create a more historical flow of events.
+- 2-26 event for Japan has been reworked to give Japan more interesting options for its course of action.
+- The "coup" events of Japan have been reworked to just be normal political events that change their head of government rather than dissent based events that randomly screw up your entire cabinet. They also have more minister options to give Japan more freedom in their plans.
+- Yumen oil events can now trigger for the owner of the province even without ongoing Sino-Japanese war, China-Nanjing is also a valid candidate for the events.
+- Pressuring of Siam/Thailand event for Japan no longer triggers if Siam/Thailand is already a puppet.
+
+Units:
+
+IMPORTANT:
+- A bug in the game engine is influencing the overseas trading ability of USSR. A workaround for this is for USSR or any overseas nation that wishes to trade with USSR during the game to start a trade at the beginning of the game, before any savegame load.
+This should keep Archangelsk open for trading throughout the game. Without it, when Copenhagen turns hostile towards USSR, it will get completely blocked from overseas trade. Overland trading can be performed normally.

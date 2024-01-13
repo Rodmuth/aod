@@ -1,0 +1,453 @@
+Log Initialized!
+Command line parsed
+Creating temp files
+Creating temp files completed
+Reading Settings
+Init CountryDB
+Calculate Checksum
+Create Mutex
+Init Settings
+Init Math Library
+Init Color Library
+Init Translations
+FoundFiles: 1
+Init Terrain
+Init Tokens
+Init Leader Names
+Init Unit Names
+Init COM objects
+Init SDL Video
+Create SDL Subsystem
+SDL_InitSubSystem: with EVERYTHING
+SDL_InitSubSystem: 0 
+Get Display Modes
+About to Initialize video!
+Init SDL Input
+Drive detection
+Init Screen
+Setting Mode.
+Mode Set.
+Video Initialized!
+Set windorect!
+Windorect set!
+Backbuffer cleared
+Fonts Initialized!
+Loadimage!
+Loadimage used!
+Starting to Initialize sound!
+Sound fully initialized!
+Network initialized!
+MainPalettes initialized!
+Core GFX initialized!
+Initialising Map!
+Map okay.
+Setting Mode.
+Mode Set.
+Setting Mode.
+Mode Set.
+Setting Mode.
+Mode Set.
+Setting Mode.
+Mode Set.
+1936-00-00 00:00: Setting up Afghanistan 
+1936-00-00 00:00: Setting Capital Afghanistan 
+1936-00-00 00:00: Goverment Afghanistan 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Afghanistan DONE
+1936-00-00 00:00: Setting up Albania 
+1936-00-00 00:00: Setting Capital Albania 
+1936-00-00 00:00: Goverment Albania 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Albania DONE
+1936-00-00 00:00: Setting up Argentina 
+1936-00-00 00:00: Setting Capital Argentina 
+1936-00-00 00:00: Goverment Argentina 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Argentina DONE
+1936-00-00 00:00: Setting up Australia 
+1936-00-00 00:00: Setting Capital Australia 
+1936-00-00 00:00: Goverment Australia 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Australia DONE
+1936-00-00 00:00: Setting up Austria 
+1936-00-00 00:00: Setting Capital Austria 
+1936-00-00 00:00: Goverment Austria 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Austria DONE
+1936-00-00 00:00: Setting up Belgium 
+1936-00-00 00:00: Setting Capital Belgium 
+1936-00-00 00:00: Goverment Belgium 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Belgium DONE
+1936-00-00 00:00: Setting up Bhutan 
+1936-00-00 00:00: Setting Capital Bhutan 
+1936-00-00 00:00: Goverment Bhutan 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Bhutan DONE
+1936-00-00 00:00: Setting up Bolivia 
+1936-00-00 00:00: Setting Capital Bolivia 
+1936-00-00 00:00: Goverment Bolivia 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Bolivia DONE
+1936-00-00 00:00: Setting up Brazil 
+1936-00-00 00:00: Setting Capital Brazil 
+1936-00-00 00:00: Goverment Brazil 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Brazil DONE
+1936-00-00 00:00: Setting up Bulgaria 
+1936-00-00 00:00: Setting Capital Bulgaria 
+1936-00-00 00:00: Goverment Bulgaria 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Bulgaria DONE
+1936-00-00 00:00: Setting up Canada 
+1936-00-00 00:00: Setting Capital Canada 
+1936-00-00 00:00: Goverment Canada 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Canada DONE
+1936-00-00 00:00: Setting up Guangxi Clique 
+1936-00-00 00:00: Setting Capital Guangxi Clique 
+1936-00-00 00:00: Goverment Guangxi Clique 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Guangxi Clique DONE
+1936-00-00 00:00: Setting up Communist China 
+1936-00-00 00:00: Setting Capital Communist China 
+1936-00-00 00:00: Goverment Communist China 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Communist China DONE
+1936-00-00 00:00: Setting up Republic of China 
+1936-00-00 00:00: Setting Capital Republic of China 
+1936-00-00 00:00: Goverment Republic of China 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Republic of China DONE
+1936-00-00 00:00: Setting up Chile 
+1936-00-00 00:00: Setting Capital Chile 
+1936-00-00 00:00: Goverment Chile 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Chile DONE
+1936-00-00 00:00: Setting up Colombia 
+1936-00-00 00:00: Setting Capital Colombia 
+1936-00-00 00:00: Goverment Colombia 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Colombia DONE
+1936-00-00 00:00: Setting up Costa Rica 
+1936-00-00 00:00: Setting Capital Costa Rica 
+1936-00-00 00:00: Goverment Costa Rica 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Costa Rica DONE
+1936-00-00 00:00: Setting up Shanxi 
+1936-00-00 00:00: Setting Capital Shanxi 
+1936-00-00 00:00: Goverment Shanxi 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Shanxi DONE
+1936-00-00 00:00: Setting up Cuba 
+1936-00-00 00:00: Setting Capital Cuba 
+1936-00-00 00:00: Goverment Cuba 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Cuba DONE
+1936-00-00 00:00: Setting up Xibei San Ma 
+1936-00-00 00:00: Setting Capital Xibei San Ma 
+1936-00-00 00:00: Goverment Xibei San Ma 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Xibei San Ma DONE
+1936-00-00 00:00: Setting up Yunnan 
+1936-00-00 00:00: Setting Capital Yunnan 
+1936-00-00 00:00: Goverment Yunnan 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Yunnan DONE
+1936-00-00 00:00: Setting up Czechoslovakia 
+1936-00-00 00:00: Setting Capital Czechoslovakia 
+1936-00-00 00:00: Goverment Czechoslovakia 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Czechoslovakia DONE
+1936-00-00 00:00: Setting up Denmark 
+1936-00-00 00:00: Setting Capital Denmark 
+1936-00-00 00:00: Goverment Denmark 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Denmark DONE
+1936-00-00 00:00: Setting up Dominican Republic 
+1936-00-00 00:00: Setting Capital Dominican Republic 
+1936-00-00 00:00: Goverment Dominican Republic 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Dominican Republic DONE
+1936-00-00 00:00: Setting up Ecuador 
+1936-00-00 00:00: Setting Capital Ecuador 
+1936-00-00 00:00: Goverment Ecuador 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Ecuador DONE
+1936-00-00 00:00: Setting up United Kingdom 
+1936-00-00 00:00: Setting Capital United Kingdom 
+1936-00-00 00:00: Goverment United Kingdom 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up United Kingdom DONE
+1936-00-00 00:00: Setting up Estonia 
+1936-00-00 00:00: Setting Capital Estonia 
+1936-00-00 00:00: Goverment Estonia 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Estonia DONE
+1936-00-00 00:00: Setting up Ethiopia 
+1936-00-00 00:00: Setting Capital Ethiopia 
+1936-00-00 00:00: Goverment Ethiopia 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Ethiopia DONE
+1936-00-00 00:00: Setting up Finland 
+1936-00-00 00:00: Setting Capital Finland 
+1936-00-00 00:00: Goverment Finland 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Finland DONE
+1936-00-00 00:00: Setting up France 
+1936-00-00 00:00: Setting Capital France 
+1936-00-00 00:00: Goverment France 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up France DONE
+1936-00-00 00:00: Setting up Germany 
+1936-00-00 00:00: Setting Capital Germany 
+1936-00-00 00:00: Goverment Germany 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Germany DONE
+1936-00-00 00:00: Setting up Greece 
+1936-00-00 00:00: Setting Capital Greece 
+1936-00-00 00:00: Goverment Greece 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Greece DONE
+1936-00-00 00:00: Setting up Guatemala 
+1936-00-00 00:00: Setting Capital Guatemala 
+1936-00-00 00:00: Goverment Guatemala 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Guatemala DONE
+1936-00-00 00:00: Setting up Haiti 
+1936-00-00 00:00: Setting Capital Haiti 
+1936-00-00 00:00: Goverment Haiti 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Haiti DONE
+1936-00-00 00:00: Setting up Netherlands 
+1936-00-00 00:00: Setting Capital Netherlands 
+1936-00-00 00:00: Goverment Netherlands 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Netherlands DONE
+1936-00-00 00:00: Setting up Honduras 
+1936-00-00 00:00: Setting Capital Honduras 
+1936-00-00 00:00: Goverment Honduras 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Honduras DONE
+1936-00-00 00:00: Setting up Hungary 
+1936-00-00 00:00: Setting Capital Hungary 
+1936-00-00 00:00: Goverment Hungary 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Hungary DONE
+1936-00-00 00:00: Setting up Ireland 
+1936-00-00 00:00: Setting Capital Ireland 
+1936-00-00 00:00: Goverment Ireland 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Ireland DONE
+1936-00-00 00:00: Setting up Iraq 
+1936-00-00 00:00: Setting Capital Iraq 
+1936-00-00 00:00: Goverment Iraq 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Iraq DONE
+1936-00-00 00:00: Setting up Italy 
+1936-00-00 00:00: Setting Capital Italy 
+1936-00-00 00:00: Goverment Italy 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Italy DONE
+1936-00-00 00:00: Setting up Japan 
+1936-00-00 00:00: Setting Capital Japan 
+1936-00-00 00:00: Setting Fowl Japan 
+1936-00-00 00:00: Goverment Japan 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Japan DONE
+1936-00-00 00:00: Setting up Latvia 
+1936-00-00 00:00: Setting Capital Latvia 
+1936-00-00 00:00: Goverment Latvia 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Latvia DONE
+1936-00-00 00:00: Setting up Liberia 
+1936-00-00 00:00: Setting Capital Liberia 
+1936-00-00 00:00: Goverment Liberia 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Liberia DONE
+1936-00-00 00:00: Setting up Lithuania 
+1936-00-00 00:00: Setting Capital Lithuania 
+1936-00-00 00:00: Goverment Lithuania 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Lithuania DONE
+1936-00-00 00:00: Setting up Luxemburg 
+1936-00-00 00:00: Setting Capital Luxemburg 
+1936-00-00 00:00: Goverment Luxemburg 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Luxemburg DONE
+1936-00-00 00:00: Setting up Manchukuo 
+1936-00-00 00:00: Setting Capital Manchukuo 
+1936-00-00 00:00: Goverment Manchukuo 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Manchukuo DONE
+1936-00-00 00:00: Setting up Mexico 
+1936-00-00 00:00: Setting Capital Mexico 
+1936-00-00 00:00: Goverment Mexico 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Mexico DONE
+1936-00-00 00:00: Setting up Mongolia 
+1936-00-00 00:00: Setting Capital Mongolia 
+1936-00-00 00:00: Goverment Mongolia 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Mongolia DONE
+1936-00-00 00:00: Setting up Nepal 
+1936-00-00 00:00: Setting Capital Nepal 
+1936-00-00 00:00: Goverment Nepal 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Nepal DONE
+1936-00-00 00:00: Setting up Nicaragua 
+1936-00-00 00:00: Setting Capital Nicaragua 
+1936-00-00 00:00: Goverment Nicaragua 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Nicaragua DONE
+1936-00-00 00:00: Setting up Norway 
+1936-00-00 00:00: Setting Capital Norway 
+1936-00-00 00:00: Goverment Norway 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Norway DONE
+1936-00-00 00:00: Setting up New Zealand 
+1936-00-00 00:00: Setting Capital New Zealand 
+1936-00-00 00:00: Goverment New Zealand 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up New Zealand DONE
+1936-00-00 00:00: Setting up Oman 
+1936-00-00 00:00: Setting Capital Oman 
+1936-00-00 00:00: Goverment Oman 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Oman DONE
+1936-00-00 00:00: Setting up Panama 
+1936-00-00 00:00: Setting Capital Panama 
+1936-00-00 00:00: Goverment Panama 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Panama DONE
+1936-00-00 00:00: Setting up Paraguay 
+1936-00-00 00:00: Setting Capital Paraguay 
+1936-00-00 00:00: Goverment Paraguay 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Paraguay DONE
+1936-00-00 00:00: Setting up Iran 
+1936-00-00 00:00: Setting Capital Iran 
+1936-00-00 00:00: Goverment Iran 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Iran DONE
+1936-00-00 00:00: Setting up Philippines 
+1936-00-00 00:00: Setting Capital Philippines 
+1936-00-00 00:00: Goverment Philippines 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Philippines DONE
+1936-00-00 00:00: Setting up Poland 
+1936-00-00 00:00: Setting Capital Poland 
+1936-00-00 00:00: Goverment Poland 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Poland DONE
+1936-00-00 00:00: Setting up Portugal 
+1936-00-00 00:00: Setting Capital Portugal 
+1936-00-00 00:00: Goverment Portugal 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Portugal DONE
+1936-00-00 00:00: Setting up Peru 
+1936-00-00 00:00: Setting Capital Peru 
+1936-00-00 00:00: Goverment Peru 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Peru DONE
+1936-00-00 00:00: Setting up Romania 
+1936-00-00 00:00: Setting Capital Romania 
+1936-00-00 00:00: Goverment Romania 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Romania DONE
+1936-00-00 00:00: Setting up South Africa 
+1936-00-00 00:00: Setting Capital South Africa 
+1936-00-00 00:00: Goverment South Africa 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up South Africa DONE
+1936-00-00 00:00: Setting up El Salvador 
+1936-00-00 00:00: Setting Capital El Salvador 
+1936-00-00 00:00: Goverment El Salvador 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up El Salvador DONE
+1936-00-00 00:00: Setting up Saudi Arabia 
+1936-00-00 00:00: Setting Capital Saudi Arabia 
+1936-00-00 00:00: Goverment Saudi Arabia 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Saudi Arabia DONE
+1936-00-00 00:00: Setting up Switzerland 
+1936-00-00 00:00: Setting Capital Switzerland 
+1936-00-00 00:00: Goverment Switzerland 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Switzerland DONE
+1936-00-00 00:00: Setting up Siam 
+1936-00-00 00:00: Setting Capital Siam 
+1936-00-00 00:00: Goverment Siam 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Siam DONE
+1936-00-00 00:00: Setting up Sinkiang 
+1936-00-00 00:00: Setting Capital Sinkiang 
+1936-00-00 00:00: Goverment Sinkiang 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Sinkiang DONE
+1936-00-00 00:00: Setting up Soviet Union 
+1936-00-00 00:00: Setting Capital Soviet Union 
+1936-00-00 00:00: Goverment Soviet Union 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Soviet Union DONE
+1936-00-00 00:00: Setting up Republican Spain 
+1936-00-00 00:00: Setting Capital Republican Spain 
+1936-00-00 00:00: Goverment Republican Spain 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Republican Spain DONE
+1936-00-00 00:00: Setting up Sweden 
+1936-00-00 00:00: Setting Capital Sweden 
+1936-00-00 00:00: Goverment Sweden 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Sweden DONE
+1936-00-00 00:00: Setting up Tannu Tuva 
+1936-00-00 00:00: Setting Capital Tannu Tuva 
+1936-00-00 00:00: Goverment Tannu Tuva 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Tannu Tuva DONE
+1936-00-00 00:00: Setting up Tibet 
+1936-00-00 00:00: Setting Capital Tibet 
+1936-00-00 00:00: Goverment Tibet 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Tibet DONE
+1936-00-00 00:00: Setting up Turkey 
+1936-00-00 00:00: Setting Capital Turkey 
+1936-00-00 00:00: Goverment Turkey 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Turkey DONE
+1936-00-00 00:00: Setting up Uruguay 
+1936-00-00 00:00: Setting Capital Uruguay 
+1936-00-00 00:00: Goverment Uruguay 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Uruguay DONE
+1936-00-00 00:00: Setting up USA 
+1936-00-00 00:00: Setting Capital USA 
+1936-00-00 00:00: Goverment USA 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up USA DONE
+1936-00-00 00:00: Setting up Venezuela 
+1936-00-00 00:00: Setting Capital Venezuela 
+1936-00-00 00:00: Goverment Venezuela 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Venezuela DONE
+1936-00-00 00:00: Setting up Yemen 
+1936-00-00 00:00: Setting Capital Yemen 
+1936-00-00 00:00: Goverment Yemen 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Yemen DONE
+1936-00-00 00:00: Setting up Yugoslavia 
+1936-00-00 00:00: Setting Capital Yugoslavia 
+1936-00-00 00:00: Goverment Yugoslavia 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Yugoslavia DONE
+1936-00-00 00:00: Setting up Partisans 
+1936-00-00 00:00: Setting Capital Partisans 
+1936-00-00 00:00: Goverment Partisans 
+1936-00-00 00:00: units done 
+1936-00-00 00:00: Setting up Partisans DONE
+1936-00-00 00:00: Setting Mode.
+1936-00-00 00:00: Mode Set.
+1936-00-00 00:00: Setting Mode.
+1936-00-00 00:00: Mode Set.
+1936-00-00 02:00: Event number 3729 maybe lost !
+1936-00-00 02:00: Event number 3408 maybe lost !
